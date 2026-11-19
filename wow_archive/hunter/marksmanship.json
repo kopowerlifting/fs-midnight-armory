@@ -1,0 +1,36 @@
+[
+  {
+    "class": "hunter",
+    "spec": "marksmanship",
+    "character": {
+      "name": "Çhùðmäxëð",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/illidan/%C3%A7h%C3%B9%C3%B0m%C3%A4x%C3%AB%C3%B0/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/illidan/%C3%A7h%C3%B9%C3%B0m%C3%A4x%C3%AB%C3%B0/",
+      "captured": 1794952859.8767,
+      "captured_at": "2026-11-17T22:00:59.876700+00:00",
+      "capture_status": "captured",
+      "html_length": 1397983,
+      "raw_html_file": "captures/us/illidan/%C3%A7h%C3%B9%C3%B0m%C3%A4x%C3%AB%C3%B0/20261117T220059876700Z.html",
+      "profile_data_file": "captures/us/illidan/%C3%A7h%C3%B9%C3%B0m%C3%A4x%C3%AB%C3%B0/20261117T220059876700Z.json"
+    }
+  },
+  {
+    "class": "hunter",
+    "spec": "marksmanship",
+    "character": {
+      "name": "Ttcfivehunt",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/ttcfivehunt/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/ttcfivehunt/",
+      "captured": 1794952864.8314433,
+      "captured_at": "2026-11-17T22:01:04.831443+00:00",
+      "capture_status": "captured",
+      "html_length": 784746,
+      "raw_html_file": "captures/us/proudmoore/ttcfivehunt/20261117T220104831443Z.html",
+      "profile_data_file": "captures/us/proudmoore/ttcfivehunt/20261117T220104831443Z.json"
+    }
+  }
+]

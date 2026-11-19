@@ -1,0 +1,36 @@
+[
+  {
+    "class": "rogue",
+    "spec": "assassination",
+    "character": {
+      "name": "Kayneur",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/medivh/kayneur/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/medivh/kayneur/",
+      "captured": 1794952885.3900156,
+      "captured_at": "2026-11-17T22:01:25.390016+00:00",
+      "capture_status": "captured",
+      "html_length": 675812,
+      "raw_html_file": "captures/us/medivh/kayneur/20261117T220125390016Z.html",
+      "profile_data_file": "captures/us/medivh/kayneur/20261117T220125390016Z.json"
+    }
+  },
+  {
+    "class": "rogue",
+    "spec": "assassination",
+    "character": {
+      "name": "Alaissaelsia",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/alaissaelsia/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/alaissaelsia/",
+      "captured": 1794952889.110337,
+      "captured_at": "2026-11-17T22:01:29.110337+00:00",
+      "capture_status": "captured",
+      "html_length": 2069632,
+      "raw_html_file": "captures/us/tichondrius/alaissaelsia/20261117T220129110337Z.html",
+      "profile_data_file": "captures/us/tichondrius/alaissaelsia/20261117T220129110337Z.json"
+    }
+  }
+]

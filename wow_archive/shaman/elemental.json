@@ -1,0 +1,36 @@
+[
+  {
+    "class": "shaman",
+    "spec": "elemental",
+    "character": {
+      "name": "Iritamsi",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/illidan/iritamsi/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/illidan/iritamsi/",
+      "captured": 1794952959.265248,
+      "captured_at": "2026-11-17T22:02:39.265248+00:00",
+      "capture_status": "captured",
+      "html_length": 712986,
+      "raw_html_file": "captures/us/illidan/iritamsi/20261117T220239265248Z.html",
+      "profile_data_file": "captures/us/illidan/iritamsi/20261117T220239265248Z.json"
+    }
+  },
+  {
+    "class": "shaman",
+    "spec": "elemental",
+    "character": {
+      "name": "Meatbeaterx",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/aggramar/meatbeaterx/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/aggramar/meatbeaterx/",
+      "captured": 1794952962.8695455,
+      "captured_at": "2026-11-17T22:02:42.869545+00:00",
+      "capture_status": "captured",
+      "html_length": 756514,
+      "raw_html_file": "captures/us/aggramar/meatbeaterx/20261117T220242869545Z.html",
+      "profile_data_file": "captures/us/aggramar/meatbeaterx/20261117T220242869545Z.json"
+    }
+  }
+]

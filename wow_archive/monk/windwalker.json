@@ -1,0 +1,36 @@
+[
+  {
+    "class": "monk",
+    "spec": "windwalker",
+    "character": {
+      "name": "Nate",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/frostmourne/nate/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/frostmourne/nate/",
+      "captured": 1794953126.2205164,
+      "captured_at": "2026-11-17T22:05:26.220516+00:00",
+      "capture_status": "captured",
+      "html_length": 2794446,
+      "raw_html_file": "captures/us/frostmourne/nate/20261117T220526220516Z.html",
+      "profile_data_file": "captures/us/frostmourne/nate/20261117T220526220516Z.json"
+    }
+  },
+  {
+    "class": "monk",
+    "spec": "windwalker",
+    "character": {
+      "name": "Sleepmaxxing",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/blackrock/sleepmaxxing/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/blackrock/sleepmaxxing/",
+      "captured": 1794953133.8562121,
+      "captured_at": "2026-11-17T22:05:33.856212+00:00",
+      "capture_status": "captured",
+      "html_length": 749278,
+      "raw_html_file": "captures/us/blackrock/sleepmaxxing/20261117T220533856212Z.html",
+      "profile_data_file": "captures/us/blackrock/sleepmaxxing/20261117T220533856212Z.json"
+    }
+  }
+]

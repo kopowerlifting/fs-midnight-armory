@@ -1,0 +1,36 @@
+[
+  {
+    "class": "warlock",
+    "spec": "demonology",
+    "character": {
+      "name": "Adonege",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/adonege/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/adonege/",
+      "captured": 1794953063.1953244,
+      "captured_at": "2026-11-17T22:04:23.195324+00:00",
+      "capture_status": "captured",
+      "html_length": 1692953,
+      "raw_html_file": "captures/us/tichondrius/adonege/20261117T220423195324Z.html",
+      "profile_data_file": "captures/us/tichondrius/adonege/20261117T220423195324Z.json"
+    }
+  },
+  {
+    "class": "warlock",
+    "spec": "demonology",
+    "character": {
+      "name": "Beeflocktom",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/beeflocktom/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/beeflocktom/",
+      "captured": 1794953069.9597688,
+      "captured_at": "2026-11-17T22:04:29.959769+00:00",
+      "capture_status": "captured",
+      "html_length": 1294993,
+      "raw_html_file": "captures/us/tichondrius/beeflocktom/20261117T220429959769Z.html",
+      "profile_data_file": "captures/us/tichondrius/beeflocktom/20261117T220429959769Z.json"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "class": "warrior",
+    "spec": "protection",
+    "character": {
+      "name": "Humanlog",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/humanlog/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/humanlog/",
+      "captured": 1794952779.8726647,
+      "captured_at": "2026-11-17T21:59:39.872665+00:00",
+      "capture_status": "captured",
+      "html_length": 1718925,
+      "raw_html_file": "captures/us/proudmoore/humanlog/20261117T215939872665Z.html",
+      "profile_data_file": "captures/us/proudmoore/humanlog/20261117T215939872665Z.json"
+    }
+  },
+  {
+    "class": "warrior",
+    "spec": "protection",
+    "character": {
+      "name": "Logwarr",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/logwarr/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/logwarr/",
+      "captured": 1794952785.9646885,
+      "captured_at": "2026-11-17T21:59:45.964689+00:00",
+      "capture_status": "captured",
+      "html_length": 1127171,
+      "raw_html_file": "captures/us/tichondrius/logwarr/20261117T215945964689Z.html",
+      "profile_data_file": "captures/us/tichondrius/logwarr/20261117T215945964689Z.json"
+    }
+  }
+]

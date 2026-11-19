@@ -1,0 +1,36 @@
+[
+  {
+    "class": "shaman",
+    "spec": "enhancement",
+    "character": {
+      "name": "Quesimulator",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/quesimulator/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/quesimulator/",
+      "captured": 1794952971.3316712,
+      "captured_at": "2026-11-17T22:02:51.331671+00:00",
+      "capture_status": "captured",
+      "html_length": 960858,
+      "raw_html_file": "captures/us/stormrage/quesimulator/20261117T220251331671Z.html",
+      "profile_data_file": "captures/us/stormrage/quesimulator/20261117T220251331671Z.json"
+    }
+  },
+  {
+    "class": "shaman",
+    "spec": "enhancement",
+    "character": {
+      "name": "Resetmmr",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/resetmmr/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/resetmmr/",
+      "captured": 1794952975.2870882,
+      "captured_at": "2026-11-17T22:02:55.287088+00:00",
+      "capture_status": "captured",
+      "html_length": 833970,
+      "raw_html_file": "captures/us/stormrage/resetmmr/20261117T220255287088Z.html",
+      "profile_data_file": "captures/us/stormrage/resetmmr/20261117T220255287088Z.json"
+    }
+  }
+]

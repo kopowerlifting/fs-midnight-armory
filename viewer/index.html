@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Armory Archive</title>
+    <link rel="stylesheet" href="/style.css">
+    <script src="/app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">LOCAL CHARACTER SNAPSHOTS</p>
+        <h1>Armory Archive</h1>
+      </div>
+      <p class="offline-note">Read-only viewer · profile data served from this computer</p>
+    </header>
+    <main class="layout">
+      <aside class="sidebar">
+        <button id="sidebar-toggle" class="sidebar-toggle" type="button"
+          aria-label="Collapse character list" aria-expanded="true" aria-controls="sidebar-content"
+          title="Collapse character list">
+          <span class="sidebar-toggle-icon" aria-hidden="true">‹</span>
+        </button>
+        <div id="sidebar-content" class="sidebar-content">
+          <label class="search-label" for="search">Find a character</label>
+          <input id="search" type="search" placeholder="Name, realm, class, spec">
+          <div class="list-heading">
+            <span>Snapshots</span>
+            <span id="capture-count" class="count">0</span>
+          </div>
+          <div id="capture-list" class="capture-list" aria-live="polite"></div>
+        </div>
+      </aside>
+      <section id="profile" class="profile" aria-live="polite">
+        <div class="empty-state">
+          <span class="empty-icon">✦</span>
+          <h2>Select a character</h2>
+          <p>Choose an archived profile to inspect its gear, stats, ratings, and builds.</p>
+        </div>
+      </section>
+    </main>
+    <footer>
+      This viewer does not load the Blizzard armory page. Profile fields come from the captured JSON;
+      images are served from the local archive when available; the viewer does not hotlink them.
+    </footer>
+  </body>
+</html>

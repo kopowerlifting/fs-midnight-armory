@@ -1,0 +1,36 @@
+[
+  {
+    "class": "mage",
+    "spec": "fire",
+    "character": {
+      "name": "Polynike",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/polynike/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/polynike/",
+      "captured": 1794953019.0076418,
+      "captured_at": "2026-11-17T22:03:39.007642+00:00",
+      "capture_status": "captured",
+      "html_length": 1706388,
+      "raw_html_file": "captures/us/tichondrius/polynike/20261117T220339007642Z.html",
+      "profile_data_file": "captures/us/tichondrius/polynike/20261117T220339007642Z.json"
+    }
+  },
+  {
+    "class": "mage",
+    "spec": "fire",
+    "character": {
+      "name": "Toerubbinæzn",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/toerubbin%C3%A6zn/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/toerubbin%C3%A6zn/",
+      "captured": 1794953024.0709262,
+      "captured_at": "2026-11-17T22:03:44.070926+00:00",
+      "capture_status": "captured",
+      "html_length": 2736918,
+      "raw_html_file": "captures/us/sargeras/toerubbin%C3%A6zn/20261117T220344070926Z.html",
+      "profile_data_file": "captures/us/sargeras/toerubbin%C3%A6zn/20261117T220344070926Z.json"
+    }
+  }
+]

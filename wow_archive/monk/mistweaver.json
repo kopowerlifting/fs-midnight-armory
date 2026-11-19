@@ -1,0 +1,36 @@
+[
+  {
+    "class": "monk",
+    "spec": "mistweaver",
+    "character": {
+      "name": "Meepsweep",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/meepsweep/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/meepsweep/",
+      "captured": 1794953113.198803,
+      "captured_at": "2026-11-17T22:05:13.198803+00:00",
+      "capture_status": "captured",
+      "html_length": 1157601,
+      "raw_html_file": "captures/us/tichondrius/meepsweep/20261117T220513198803Z.html",
+      "profile_data_file": "captures/us/tichondrius/meepsweep/20261117T220513198803Z.json"
+    }
+  },
+  {
+    "class": "monk",
+    "spec": "mistweaver",
+    "character": {
+      "name": "Dasrite",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/dasrite/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/dasrite/",
+      "captured": 1794953118.059051,
+      "captured_at": "2026-11-17T22:05:18.059051+00:00",
+      "capture_status": "captured",
+      "html_length": 1013080,
+      "raw_html_file": "captures/us/zuljin/dasrite/20261117T220518059051Z.html",
+      "profile_data_file": "captures/us/zuljin/dasrite/20261117T220518059051Z.json"
+    }
+  }
+]

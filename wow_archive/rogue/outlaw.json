@@ -1,0 +1,36 @@
+[
+  {
+    "class": "rogue",
+    "spec": "outlaw",
+    "character": {
+      "name": "Pvegodx",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/barthilas/pvegodx/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/barthilas/pvegodx/",
+      "captured": 1794952898.627206,
+      "captured_at": "2026-11-17T22:01:38.627206+00:00",
+      "capture_status": "captured",
+      "html_length": 1222865,
+      "raw_html_file": "captures/us/barthilas/pvegodx/20261117T220138627206Z.html",
+      "profile_data_file": "captures/us/barthilas/pvegodx/20261117T220138627206Z.json"
+    }
+  },
+  {
+    "class": "rogue",
+    "spec": "outlaw",
+    "character": {
+      "name": "Dzdgodx",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/dzdgodx/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/dzdgodx/",
+      "captured": 1794952903.209214,
+      "captured_at": "2026-11-17T22:01:43.209214+00:00",
+      "capture_status": "captured",
+      "html_length": 802719,
+      "raw_html_file": "captures/us/tichondrius/dzdgodx/20261117T220143209214Z.html",
+      "profile_data_file": "captures/us/tichondrius/dzdgodx/20261117T220143209214Z.json"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "class": "priest",
+    "spec": "shadow",
+    "character": {
+      "name": "Peterlongrod",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/peterlongrod/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/peterlongrod/",
+      "captured": 1794952946.2152088,
+      "captured_at": "2026-11-17T22:02:26.215209+00:00",
+      "capture_status": "captured",
+      "html_length": 1371985,
+      "raw_html_file": "captures/us/malganis/peterlongrod/20261117T220226215209Z.html",
+      "profile_data_file": "captures/us/malganis/peterlongrod/20261117T220226215209Z.json"
+    }
+  },
+  {
+    "class": "priest",
+    "spec": "shadow",
+    "character": {
+      "name": "Envyion",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/envyion/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/envyion/",
+      "captured": 1794952950.6321943,
+      "captured_at": "2026-11-17T22:02:30.632194+00:00",
+      "capture_status": "captured",
+      "html_length": 1491036,
+      "raw_html_file": "captures/us/sargeras/envyion/20261117T220230632194Z.html",
+      "profile_data_file": "captures/us/sargeras/envyion/20261117T220230632194Z.json"
+    }
+  }
+]

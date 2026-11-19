@@ -1,0 +1,36 @@
+[
+  {
+    "class": "hunter",
+    "spec": "beastmastery",
+    "character": {
+      "name": "Gennaro",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/ragnaros/gennaro/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/ragnaros/gennaro/",
+      "captured": 1794952845.5995467,
+      "captured_at": "2026-11-17T22:00:45.599547+00:00",
+      "capture_status": "captured",
+      "html_length": 1121754,
+      "raw_html_file": "captures/us/ragnaros/gennaro/20261117T220045599547Z.html",
+      "profile_data_file": "captures/us/ragnaros/gennaro/20261117T220045599547Z.json"
+    }
+  },
+  {
+    "class": "hunter",
+    "spec": "beastmastery",
+    "character": {
+      "name": "Destrumz",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/destrumz/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/destrumz/",
+      "captured": 1794952850.200144,
+      "captured_at": "2026-11-17T22:00:50.200144+00:00",
+      "capture_status": "captured",
+      "html_length": 2198215,
+      "raw_html_file": "captures/us/zuljin/destrumz/20261117T220050200144Z.html",
+      "profile_data_file": "captures/us/zuljin/destrumz/20261117T220050200144Z.json"
+    }
+  }
+]

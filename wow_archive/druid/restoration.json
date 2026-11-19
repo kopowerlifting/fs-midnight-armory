@@ -1,0 +1,36 @@
+[
+  {
+    "class": "druid",
+    "spec": "restoration",
+    "character": {
+      "name": "Noworriesbro",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/noworriesbro/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/noworriesbro/",
+      "captured": 1794953181.1659544,
+      "captured_at": "2026-11-17T22:06:21.165954+00:00",
+      "capture_status": "captured",
+      "html_length": 1106851,
+      "raw_html_file": "captures/us/zuljin/noworriesbro/20261117T220621165954Z.html",
+      "profile_data_file": "captures/us/zuljin/noworriesbro/20261117T220621165954Z.json"
+    }
+  },
+  {
+    "class": "druid",
+    "spec": "restoration",
+    "character": {
+      "name": "Phrase",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/moon-guard/phrase/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/moon-guard/phrase/",
+      "captured": 1794953185.493657,
+      "captured_at": "2026-11-17T22:06:25.493657+00:00",
+      "capture_status": "captured",
+      "html_length": 1205005,
+      "raw_html_file": "captures/us/moon-guard/phrase/20261117T220625493657Z.html",
+      "profile_data_file": "captures/us/moon-guard/phrase/20261117T220625493657Z.json"
+    }
+  }
+]

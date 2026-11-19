@@ -1,0 +1,36 @@
+[
+  {
+    "class": "mage",
+    "spec": "frost",
+    "character": {
+      "name": "Flamethrower",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/flamethrower/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/flamethrower/",
+      "captured": 1794953034.957196,
+      "captured_at": "2026-11-17T22:03:54.957196+00:00",
+      "capture_status": "captured",
+      "html_length": 1275364,
+      "raw_html_file": "captures/us/tichondrius/flamethrower/20261117T220354957196Z.html",
+      "profile_data_file": "captures/us/tichondrius/flamethrower/20261117T220354957196Z.json"
+    }
+  },
+  {
+    "class": "mage",
+    "spec": "frost",
+    "character": {
+      "name": "Polynike",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/polynike/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/polynike/",
+      "captured": 1794953039.55612,
+      "captured_at": "2026-11-17T22:03:59.556120+00:00",
+      "capture_status": "captured",
+      "html_length": 1706388,
+      "raw_html_file": "captures/us/tichondrius/polynike/20261117T220359556120Z.html",
+      "profile_data_file": "captures/us/tichondrius/polynike/20261117T220359556120Z.json"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "class": "deathknight",
+    "spec": "blood",
+    "character": {
+      "name": "Davelol",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/davelol/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/davelol/",
+      "captured": 1794952717.1226172,
+      "captured_at": "2026-11-17T21:58:37.122617+00:00",
+      "capture_status": "captured",
+      "html_length": 1190881,
+      "raw_html_file": "captures/us/emerald-dream/davelol/20261117T215837122617Z.html",
+      "profile_data_file": "captures/us/emerald-dream/davelol/20261117T215837122617Z.json"
+    }
+  },
+  {
+    "class": "deathknight",
+    "spec": "blood",
+    "character": {
+      "name": "Ttvflarkness",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dawnbringer/ttvflarkness/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dawnbringer/ttvflarkness/",
+      "captured": 1794952721.3116784,
+      "captured_at": "2026-11-17T21:58:41.311678+00:00",
+      "capture_status": "captured",
+      "html_length": 1149672,
+      "raw_html_file": "captures/us/dawnbringer/ttvflarkness/20261117T215841311678Z.html",
+      "profile_data_file": "captures/us/dawnbringer/ttvflarkness/20261117T215841311678Z.json"
+    }
+  }
+]

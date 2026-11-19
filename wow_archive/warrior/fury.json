@@ -1,0 +1,36 @@
+[
+  {
+    "class": "warrior",
+    "spec": "fury",
+    "character": {
+      "name": "Isnlonely",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/isnlonely/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/isnlonely/",
+      "captured": 1794952765.7193327,
+      "captured_at": "2026-11-17T21:59:25.719333+00:00",
+      "capture_status": "captured",
+      "html_length": 1557505,
+      "raw_html_file": "captures/us/tichondrius/isnlonely/20261117T215925719333Z.html",
+      "profile_data_file": "captures/us/tichondrius/isnlonely/20261117T215925719333Z.json"
+    }
+  },
+  {
+    "class": "warrior",
+    "spec": "fury",
+    "character": {
+      "name": "Kenstlols",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/kenstlols/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/kenstlols/",
+      "captured": 1794952771.6262035,
+      "captured_at": "2026-11-17T21:59:31.626204+00:00",
+      "capture_status": "captured",
+      "html_length": 1323559,
+      "raw_html_file": "captures/us/tichondrius/kenstlols/20261117T215931626204Z.html",
+      "profile_data_file": "captures/us/tichondrius/kenstlols/20261117T215931626204Z.json"
+    }
+  }
+]

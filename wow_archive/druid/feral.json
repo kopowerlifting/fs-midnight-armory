@@ -1,0 +1,36 @@
+[
+  {
+    "class": "druid",
+    "spec": "feral",
+    "character": {
+      "name": "Deadlift",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/bloodscalp/deadlift/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/bloodscalp/deadlift/",
+      "captured": 1794953155.0032003,
+      "captured_at": "2026-11-17T22:05:55.003200+00:00",
+      "capture_status": "captured",
+      "html_length": 653475,
+      "raw_html_file": "captures/us/bloodscalp/deadlift/20261117T220555003200Z.html",
+      "profile_data_file": "captures/us/bloodscalp/deadlift/20261117T220555003200Z.json"
+    }
+  },
+  {
+    "class": "druid",
+    "spec": "feral",
+    "character": {
+      "name": "Macaronitime",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/area-52/macaronitime/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/area-52/macaronitime/",
+      "captured": 1794953158.5761135,
+      "captured_at": "2026-11-17T22:05:58.576113+00:00",
+      "capture_status": "captured",
+      "html_length": 1257282,
+      "raw_html_file": "captures/us/area-52/macaronitime/20261117T220558576113Z.html",
+      "profile_data_file": "captures/us/area-52/macaronitime/20261117T220558576113Z.json"
+    }
+  }
+]

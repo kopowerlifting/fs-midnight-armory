@@ -1,0 +1,36 @@
+[
+  {
+    "class": "paladin",
+    "spec": "retribution",
+    "character": {
+      "name": "Drxw",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/drxw/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/drxw/",
+      "captured": 1794952823.5518343,
+      "captured_at": "2026-11-17T22:00:23.551834+00:00",
+      "capture_status": "captured",
+      "html_length": 1323826,
+      "raw_html_file": "captures/us/stormrage/drxw/20261117T220023551834Z.html",
+      "profile_data_file": "captures/us/stormrage/drxw/20261117T220023551834Z.json"
+    }
+  },
+  {
+    "class": "paladin",
+    "spec": "retribution",
+    "character": {
+      "name": "Morfgore",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/ragnaros/morfgore/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/ragnaros/morfgore/",
+      "captured": 1794952837.981318,
+      "captured_at": "2026-11-17T22:00:37.981318+00:00",
+      "capture_status": "captured",
+      "html_length": 984725,
+      "raw_html_file": "captures/us/ragnaros/morfgore/20261117T220037981318Z.html",
+      "profile_data_file": "captures/us/ragnaros/morfgore/20261117T220037981318Z.json"
+    }
+  }
+]
