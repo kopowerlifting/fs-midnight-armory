@@ -1,0 +1,36 @@
+[
+  {
+    "class": "deathknight",
+    "spec": "frost",
+    "character": {
+      "name": "Dirt",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/icecrown/dirt/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/icecrown/dirt/",
+      "captured": 1794952729.0835369,
+      "captured_at": "2026-11-17T21:58:49.083537+00:00",
+      "capture_status": "captured",
+      "html_length": 1828783,
+      "raw_html_file": "captures/us/icecrown/dirt/20261117T215849083537Z.html",
+      "profile_data_file": "captures/us/icecrown/dirt/20261117T215849083537Z.json"
+    }
+  },
+  {
+    "class": "deathknight",
+    "spec": "frost",
+    "character": {
+      "name": "Colbz",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/colbz/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/colbz/",
+      "captured": 1794952734.9269617,
+      "captured_at": "2026-11-17T21:58:54.926962+00:00",
+      "capture_status": "captured",
+      "html_length": 1347487,
+      "raw_html_file": "captures/us/stormrage/colbz/20261117T215854926962Z.html",
+      "profile_data_file": "captures/us/stormrage/colbz/20261117T215854926962Z.json"
+    }
+  }
+]

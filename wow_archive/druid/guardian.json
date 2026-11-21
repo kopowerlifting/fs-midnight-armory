@@ -1,0 +1,36 @@
+[
+  {
+    "class": "druid",
+    "spec": "guardian",
+    "character": {
+      "name": "Zyhsul",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/zyhsul/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/zyhsul/",
+      "captured": 1794953166.9646375,
+      "captured_at": "2026-11-17T22:06:06.964638+00:00",
+      "capture_status": "captured",
+      "html_length": 1906996,
+      "raw_html_file": "captures/us/emerald-dream/zyhsul/20261117T220606964638Z.html",
+      "profile_data_file": "captures/us/emerald-dream/zyhsul/20261117T220606964638Z.json"
+    }
+  },
+  {
+    "class": "druid",
+    "spec": "guardian",
+    "character": {
+      "name": "Inavirus",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/inavirus/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/inavirus/",
+      "captured": 1794953172.9281695,
+      "captured_at": "2026-11-17T22:06:12.928169+00:00",
+      "capture_status": "captured",
+      "html_length": 902240,
+      "raw_html_file": "captures/us/emerald-dream/inavirus/20261117T220612928169Z.html",
+      "profile_data_file": "captures/us/emerald-dream/inavirus/20261117T220612928169Z.json"
+    }
+  }
+]

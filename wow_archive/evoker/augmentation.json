@@ -1,0 +1,36 @@
+[
+  {
+    "class": "evoker",
+    "spec": "augmentation",
+    "character": {
+      "name": "Youginong",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/youginong/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/youginong/",
+      "captured": 1794953217.9193525,
+      "captured_at": "2026-11-17T22:06:57.919353+00:00",
+      "capture_status": "captured",
+      "html_length": 1196313,
+      "raw_html_file": "captures/us/tichondrius/youginong/20261117T220657919353Z.html",
+      "profile_data_file": "captures/us/tichondrius/youginong/20261117T220657919353Z.json"
+    }
+  },
+  {
+    "class": "evoker",
+    "spec": "augmentation",
+    "character": {
+      "name": "Yukinozzang",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/yukinozzang/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/yukinozzang/",
+      "captured": 1794953222.693746,
+      "captured_at": "2026-11-17T22:07:02.693746+00:00",
+      "capture_status": "captured",
+      "html_length": 735035,
+      "raw_html_file": "captures/us/tichondrius/yukinozzang/20261117T220702693746Z.html",
+      "profile_data_file": "captures/us/tichondrius/yukinozzang/20261117T220702693746Z.json"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "class": "demonhunter",
+    "spec": "havoc",
+    "character": {
+      "name": "Foxyllamadh",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/burning-blade/foxyllamadh/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/burning-blade/foxyllamadh/",
+      "captured": 1794953193.8247876,
+      "captured_at": "2026-11-17T22:06:33.824788+00:00",
+      "capture_status": "captured",
+      "html_length": 644571,
+      "raw_html_file": "captures/us/burning-blade/foxyllamadh/20261117T220633824788Z.html",
+      "profile_data_file": "captures/us/burning-blade/foxyllamadh/20261117T220633824788Z.json"
+    }
+  },
+  {
+    "class": "demonhunter",
+    "spec": "havoc",
+    "character": {
+      "name": "Classfantasy",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/bleeding-hollow/classfantasy/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/bleeding-hollow/classfantasy/",
+      "captured": 1794953197.4535248,
+      "captured_at": "2026-11-17T22:06:37.453525+00:00",
+      "capture_status": "captured",
+      "html_length": 1143930,
+      "raw_html_file": "captures/us/bleeding-hollow/classfantasy/20261117T220637453525Z.html",
+      "profile_data_file": "captures/us/bleeding-hollow/classfantasy/20261117T220637453525Z.json"
+    }
+  }
+]

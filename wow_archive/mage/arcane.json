@@ -1,0 +1,36 @@
+[
+  {
+    "class": "mage",
+    "spec": "arcane",
+    "character": {
+      "name": "Austin",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/austin/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/austin/",
+      "captured": 1794952995.8503103,
+      "captured_at": "2026-11-17T22:03:15.850310+00:00",
+      "capture_status": "captured",
+      "html_length": 818277,
+      "raw_html_file": "captures/us/sargeras/austin/20261117T220315850310Z.html",
+      "profile_data_file": "captures/us/sargeras/austin/20261117T220315850310Z.json"
+    }
+  },
+  {
+    "class": "mage",
+    "spec": "arcane",
+    "character": {
+      "name": "Blackpetkick",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/blackpetkick/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/blackpetkick/",
+      "captured": 1794952999.918273,
+      "captured_at": "2026-11-17T22:03:19.918273+00:00",
+      "capture_status": "captured",
+      "html_length": 966309,
+      "raw_html_file": "captures/us/sargeras/blackpetkick/20261117T220319918273Z.html",
+      "profile_data_file": "captures/us/sargeras/blackpetkick/20261117T220319918273Z.json"
+    }
+  }
+]

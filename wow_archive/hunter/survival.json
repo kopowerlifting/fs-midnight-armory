@@ -1,0 +1,36 @@
+[
+  {
+    "class": "hunter",
+    "spec": "survival",
+    "character": {
+      "name": "Jaywaz",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/jaywaz/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/jaywaz/",
+      "captured": 1794952872.103381,
+      "captured_at": "2026-11-17T22:01:12.103381+00:00",
+      "capture_status": "captured",
+      "html_length": 1275708,
+      "raw_html_file": "captures/us/tichondrius/jaywaz/20261117T220112103381Z.html",
+      "profile_data_file": "captures/us/tichondrius/jaywaz/20261117T220112103381Z.json"
+    }
+  },
+  {
+    "class": "hunter",
+    "spec": "survival",
+    "character": {
+      "name": "Wazere",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/wazere/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/wazere/",
+      "captured": 1794952877.1094975,
+      "captured_at": "2026-11-17T22:01:17.109498+00:00",
+      "capture_status": "captured",
+      "html_length": 863482,
+      "raw_html_file": "captures/us/tichondrius/wazere/20261117T220117109498Z.html",
+      "profile_data_file": "captures/us/tichondrius/wazere/20261117T220117109498Z.json"
+    }
+  }
+]

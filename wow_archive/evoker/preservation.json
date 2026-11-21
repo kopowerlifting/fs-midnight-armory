@@ -1,0 +1,36 @@
+[
+  {
+    "class": "evoker",
+    "spec": "preservation",
+    "character": {
+      "name": "Itimbutiki",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/moon-guard/itimbutiki/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/moon-guard/itimbutiki/",
+      "captured": 1794953241.834007,
+      "captured_at": "2026-11-17T22:07:21.834007+00:00",
+      "capture_status": "captured",
+      "html_length": 953437,
+      "raw_html_file": "captures/us/moon-guard/itimbutiki/20261117T220721834007Z.html",
+      "profile_data_file": "captures/us/moon-guard/itimbutiki/20261117T220721834007Z.json"
+    }
+  },
+  {
+    "class": "evoker",
+    "spec": "preservation",
+    "character": {
+      "name": "Dilating",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/dilating/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/dilating/",
+      "captured": 1794953246.7434092,
+      "captured_at": "2026-11-17T22:07:26.743409+00:00",
+      "capture_status": "captured",
+      "html_length": 1383155,
+      "raw_html_file": "captures/us/sargeras/dilating/20261117T220726743409Z.html",
+      "profile_data_file": "captures/us/sargeras/dilating/20261117T220726743409Z.json"
+    }
+  }
+]

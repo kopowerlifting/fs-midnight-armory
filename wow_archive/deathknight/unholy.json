@@ -1,0 +1,36 @@
+[
+  {
+    "class": "deathknight",
+    "spec": "unholy",
+    "character": {
+      "name": "Ockle",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/ockle/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/ockle/",
+      "captured": 1794952743.3283284,
+      "captured_at": "2026-11-17T21:59:03.328328+00:00",
+      "capture_status": "captured",
+      "html_length": 508208,
+      "raw_html_file": "captures/us/sargeras/ockle/20261117T215903328328Z.html",
+      "profile_data_file": "captures/us/sargeras/ockle/20261117T215903328328Z.json"
+    }
+  },
+  {
+    "class": "deathknight",
+    "spec": "unholy",
+    "character": {
+      "name": "Budgetsonyd",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/budgetsonyd/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/budgetsonyd/",
+      "captured": 1794952746.7143478,
+      "captured_at": "2026-11-17T21:59:06.714348+00:00",
+      "capture_status": "captured",
+      "html_length": 581580,
+      "raw_html_file": "captures/us/sargeras/budgetsonyd/20261117T215906714348Z.html",
+      "profile_data_file": "captures/us/sargeras/budgetsonyd/20261117T215906714348Z.json"
+    }
+  }
+]

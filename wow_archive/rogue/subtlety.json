@@ -1,0 +1,36 @@
+[
+  {
+    "class": "rogue",
+    "spec": "subtlety",
+    "character": {
+      "name": "Tea",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/undermine/tea/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/undermine/tea/",
+      "captured": 1794952910.2338889,
+      "captured_at": "2026-11-17T22:01:50.233889+00:00",
+      "capture_status": "captured",
+      "html_length": 1557661,
+      "raw_html_file": "captures/us/undermine/tea/20261117T220150233889Z.html",
+      "profile_data_file": "captures/us/undermine/tea/20261117T220150233889Z.json"
+    }
+  },
+  {
+    "class": "rogue",
+    "spec": "subtlety",
+    "character": {
+      "name": "Røbinhooe",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/r%C3%B8binhooe/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/r%C3%B8binhooe/",
+      "captured": 1794952915.520887,
+      "captured_at": "2026-11-17T22:01:55.520887+00:00",
+      "capture_status": "captured",
+      "html_length": 875009,
+      "raw_html_file": "captures/us/malganis/r%C3%B8binhooe/20261117T220155520887Z.html",
+      "profile_data_file": "captures/us/malganis/r%C3%B8binhooe/20261117T220155520887Z.json"
+    }
+  }
+]

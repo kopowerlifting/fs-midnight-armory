@@ -1,0 +1,36 @@
+[
+  {
+    "class": "evoker",
+    "spec": "devastation",
+    "character": {
+      "name": "Dzdv",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/dzdv/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/dzdv/",
+      "captured": 1794953230.2767856,
+      "captured_at": "2026-11-17T22:07:10.276786+00:00",
+      "capture_status": "captured",
+      "html_length": 948270,
+      "raw_html_file": "captures/us/stormrage/dzdv/20261117T220710276786Z.html",
+      "profile_data_file": "captures/us/stormrage/dzdv/20261117T220710276786Z.json"
+    }
+  },
+  {
+    "class": "evoker",
+    "spec": "devastation",
+    "character": {
+      "name": "Iceddietcoke",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/draktharon/iceddietcoke/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/draktharon/iceddietcoke/",
+      "captured": 1794953234.33222,
+      "captured_at": "2026-11-17T22:07:14.332220+00:00",
+      "capture_status": "captured",
+      "html_length": 788269,
+      "raw_html_file": "captures/us/draktharon/iceddietcoke/20261117T220714332220Z.html",
+      "profile_data_file": "captures/us/draktharon/iceddietcoke/20261117T220714332220Z.json"
+    }
+  }
+]

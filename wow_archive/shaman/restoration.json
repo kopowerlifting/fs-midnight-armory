@@ -1,0 +1,36 @@
+[
+  {
+    "class": "shaman",
+    "spec": "restoration",
+    "character": {
+      "name": "Goodgrief",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/goodgrief/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/goodgrief/",
+      "captured": 1794952982.803833,
+      "captured_at": "2026-11-17T22:03:02.803833+00:00",
+      "capture_status": "captured",
+      "html_length": 1120790,
+      "raw_html_file": "captures/us/zuljin/goodgrief/20261117T220302803833Z.html",
+      "profile_data_file": "captures/us/zuljin/goodgrief/20261117T220302803833Z.json"
+    }
+  },
+  {
+    "class": "shaman",
+    "spec": "restoration",
+    "character": {
+      "name": "Djbluex",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/djbluex/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/djbluex/",
+      "captured": 1794952987.5040572,
+      "captured_at": "2026-11-17T22:03:07.504057+00:00",
+      "capture_status": "captured",
+      "html_length": 1457947,
+      "raw_html_file": "captures/us/tichondrius/djbluex/20261117T220307504057Z.html",
+      "profile_data_file": "captures/us/tichondrius/djbluex/20261117T220307504057Z.json"
+    }
+  }
+]

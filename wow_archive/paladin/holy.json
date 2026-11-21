@@ -1,0 +1,36 @@
+[
+  {
+    "class": "paladin",
+    "spec": "holy",
+    "character": {
+      "name": "Gabbito",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/gabbito/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/gabbito/",
+      "captured": 1794952796.3805985,
+      "captured_at": "2026-11-17T21:59:56.380599+00:00",
+      "capture_status": "captured",
+      "html_length": 985794,
+      "raw_html_file": "captures/us/sargeras/gabbito/20261117T215956380599Z.html",
+      "profile_data_file": "captures/us/sargeras/gabbito/20261117T215956380599Z.json"
+    }
+  },
+  {
+    "class": "paladin",
+    "spec": "holy",
+    "character": {
+      "name": "Juicedaddy",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/blackhand/juicedaddy/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/blackhand/juicedaddy/",
+      "captured": 1794952800.335505,
+      "captured_at": "2026-11-17T22:00:00.335505+00:00",
+      "capture_status": "captured",
+      "html_length": 1458424,
+      "raw_html_file": "captures/us/blackhand/juicedaddy/20261117T220000335505Z.html",
+      "profile_data_file": "captures/us/blackhand/juicedaddy/20261117T220000335505Z.json"
+    }
+  }
+]

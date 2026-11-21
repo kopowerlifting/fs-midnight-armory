@@ -1,0 +1,36 @@
+[
+  {
+    "class": "priest",
+    "spec": "discipline",
+    "character": {
+      "name": "Jnglpriestx",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/thrall/jnglpriestx/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/thrall/jnglpriestx/",
+      "captured": 1794952922.9096138,
+      "captured_at": "2026-11-17T22:02:02.909614+00:00",
+      "capture_status": "captured",
+      "html_length": 848314,
+      "raw_html_file": "captures/us/thrall/jnglpriestx/20261117T220202909614Z.html",
+      "profile_data_file": "captures/us/thrall/jnglpriestx/20261117T220202909614Z.json"
+    }
+  },
+  {
+    "class": "priest",
+    "spec": "discipline",
+    "character": {
+      "name": "Takhfiend",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/takhfiend/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/takhfiend/",
+      "captured": 1794952926.800473,
+      "captured_at": "2026-11-17T22:02:06.800473+00:00",
+      "capture_status": "captured",
+      "html_length": 1277041,
+      "raw_html_file": "captures/us/tichondrius/takhfiend/20261117T220206800473Z.html",
+      "profile_data_file": "captures/us/tichondrius/takhfiend/20261117T220206800473Z.json"
+    }
+  }
+]

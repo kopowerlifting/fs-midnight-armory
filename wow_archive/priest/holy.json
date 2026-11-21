@@ -1,0 +1,36 @@
+[
+  {
+    "class": "priest",
+    "spec": "holy",
+    "character": {
+      "name": "Greet",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/hyjal/greet/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/hyjal/greet/",
+      "captured": 1794952935.2534187,
+      "captured_at": "2026-11-17T22:02:15.253419+00:00",
+      "capture_status": "captured",
+      "html_length": 946667,
+      "raw_html_file": "captures/us/hyjal/greet/20261117T220215253419Z.html",
+      "profile_data_file": "captures/us/hyjal/greet/20261117T220215253419Z.json"
+    }
+  },
+  {
+    "class": "priest",
+    "spec": "holy",
+    "character": {
+      "name": "Peatr",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/hyjal/peatr/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/hyjal/peatr/",
+      "captured": 1794952939.236927,
+      "captured_at": "2026-11-17T22:02:19.236927+00:00",
+      "capture_status": "captured",
+      "html_length": 666953,
+      "raw_html_file": "captures/us/hyjal/peatr/20261117T220219236927Z.html",
+      "profile_data_file": "captures/us/hyjal/peatr/20261117T220219236927Z.json"
+    }
+  }
+]

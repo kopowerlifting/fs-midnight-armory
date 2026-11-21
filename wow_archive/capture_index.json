@@ -1,0 +1,2029 @@
+{
+  "schema_version": 1,
+  "captures": [
+    {
+      "class": "deathknight",
+      "spec": "blood",
+      "character": {
+        "name": "Davelol",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/davelol/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/davelol/",
+        "captured": 1794952615.4681797,
+        "captured_at": "2026-11-17T21:56:55.468180+00:00",
+        "capture_status": "captured",
+        "html_length": 1190881,
+        "raw_html_file": "captures/us/emerald-dream/davelol/20261117T215655468180Z.html",
+        "profile_data_file": "captures/us/emerald-dream/davelol/20261117T215655468180Z.json"
+      },
+      "appearances": [
+        {
+          "class": "deathknight",
+          "spec": "blood"
+        }
+      ]
+    },
+    {
+      "class": "deathknight",
+      "spec": "blood",
+      "character": {
+        "name": "Ttvflarkness",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dawnbringer/ttvflarkness/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dawnbringer/ttvflarkness/",
+        "captured": 1794952619.7212994,
+        "captured_at": "2026-11-17T21:56:59.721299+00:00",
+        "capture_status": "captured",
+        "html_length": 1149672,
+        "raw_html_file": "captures/us/dawnbringer/ttvflarkness/20261117T215659721299Z.html",
+        "profile_data_file": "captures/us/dawnbringer/ttvflarkness/20261117T215659721299Z.json"
+      },
+      "appearances": [
+        {
+          "class": "deathknight",
+          "spec": "blood"
+        }
+      ]
+    },
+    {
+      "class": "deathknight",
+      "spec": "frost",
+      "character": {
+        "name": "Dirt",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/icecrown/dirt/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/icecrown/dirt/",
+        "captured": 1794952627.7088747,
+        "captured_at": "2026-11-17T21:57:07.708875+00:00",
+        "capture_status": "captured",
+        "html_length": 1828783,
+        "raw_html_file": "captures/us/icecrown/dirt/20261117T215707708875Z.html",
+        "profile_data_file": "captures/us/icecrown/dirt/20261117T215707708875Z.json"
+      },
+      "appearances": [
+        {
+          "class": "deathknight",
+          "spec": "frost"
+        }
+      ]
+    },
+    {
+      "class": "deathknight",
+      "spec": "frost",
+      "character": {
+        "name": "Colbz",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/colbz/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/colbz/",
+        "captured": 1794952633.447952,
+        "captured_at": "2026-11-17T21:57:13.447952+00:00",
+        "capture_status": "captured",
+        "html_length": 1347487,
+        "raw_html_file": "captures/us/stormrage/colbz/20261117T215713447952Z.html",
+        "profile_data_file": "captures/us/stormrage/colbz/20261117T215713447952Z.json"
+      },
+      "appearances": [
+        {
+          "class": "deathknight",
+          "spec": "frost"
+        }
+      ]
+    },
+    {
+      "class": "deathknight",
+      "spec": "unholy",
+      "character": {
+        "name": "Ockle",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/ockle/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/ockle/",
+        "captured": 1794952642.309279,
+        "captured_at": "2026-11-17T21:57:22.309279+00:00",
+        "capture_status": "captured",
+        "html_length": 508208,
+        "raw_html_file": "captures/us/sargeras/ockle/20261117T215722309279Z.html",
+        "profile_data_file": "captures/us/sargeras/ockle/20261117T215722309279Z.json"
+      },
+      "appearances": [
+        {
+          "class": "deathknight",
+          "spec": "unholy"
+        }
+      ]
+    },
+    {
+      "class": "deathknight",
+      "spec": "unholy",
+      "character": {
+        "name": "Budgetsonyd",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/budgetsonyd/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/budgetsonyd/",
+        "captured": 1794952645.6699378,
+        "captured_at": "2026-11-17T21:57:25.669938+00:00",
+        "capture_status": "captured",
+        "html_length": 581580,
+        "raw_html_file": "captures/us/sargeras/budgetsonyd/20261117T215725669938Z.html",
+        "profile_data_file": "captures/us/sargeras/budgetsonyd/20261117T215725669938Z.json"
+      },
+      "appearances": [
+        {
+          "class": "deathknight",
+          "spec": "unholy"
+        }
+      ]
+    },
+    {
+      "class": "warrior",
+      "spec": "arms",
+      "character": {
+        "name": "Megamonkey",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/megamonkey/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/megamonkey/",
+        "captured": 1794952652.8188155,
+        "captured_at": "2026-11-17T21:57:32.818815+00:00",
+        "capture_status": "captured",
+        "html_length": 1054475,
+        "raw_html_file": "captures/us/sargeras/megamonkey/20261117T215732818815Z.html",
+        "profile_data_file": "captures/us/sargeras/megamonkey/20261117T215732818815Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warrior",
+          "spec": "arms"
+        }
+      ]
+    },
+    {
+      "class": "warrior",
+      "spec": "arms",
+      "character": {
+        "name": "Îï",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/%C3%AE%C3%AF/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/%C3%AE%C3%AF/",
+        "captured": 1794952657.0172024,
+        "captured_at": "2026-11-17T21:57:37.017202+00:00",
+        "capture_status": "captured",
+        "html_length": 1083215,
+        "raw_html_file": "captures/us/sargeras/%C3%AE%C3%AF/20261117T215737017202Z.html",
+        "profile_data_file": "captures/us/sargeras/%C3%AE%C3%AF/20261117T215737017202Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warrior",
+          "spec": "arms"
+        }
+      ]
+    },
+    {
+      "class": "warrior",
+      "spec": "fury",
+      "character": {
+        "name": "Isnlonely",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/isnlonely/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/isnlonely/",
+        "captured": 1794952664.8761666,
+        "captured_at": "2026-11-17T21:57:44.876167+00:00",
+        "capture_status": "captured",
+        "html_length": 1557505,
+        "raw_html_file": "captures/us/tichondrius/isnlonely/20261117T215744876167Z.html",
+        "profile_data_file": "captures/us/tichondrius/isnlonely/20261117T215744876167Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warrior",
+          "spec": "fury"
+        }
+      ]
+    },
+    {
+      "class": "warrior",
+      "spec": "fury",
+      "character": {
+        "name": "Kenstlols",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/kenstlols/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/kenstlols/",
+        "captured": 1794952670.7287576,
+        "captured_at": "2026-11-17T21:57:50.728758+00:00",
+        "capture_status": "captured",
+        "html_length": 1323559,
+        "raw_html_file": "captures/us/tichondrius/kenstlols/20261117T215750728758Z.html",
+        "profile_data_file": "captures/us/tichondrius/kenstlols/20261117T215750728758Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warrior",
+          "spec": "fury"
+        }
+      ]
+    },
+    {
+      "class": "deathknight",
+      "spec": "blood",
+      "character": {
+        "name": "Davelol",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/davelol/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/davelol/",
+        "captured": 1794952717.1226172,
+        "captured_at": "2026-11-17T21:58:37.122617+00:00",
+        "capture_status": "captured",
+        "html_length": 1190881,
+        "raw_html_file": "captures/us/emerald-dream/davelol/20261117T215837122617Z.html",
+        "profile_data_file": "captures/us/emerald-dream/davelol/20261117T215837122617Z.json"
+      },
+      "appearances": [
+        {
+          "class": "deathknight",
+          "spec": "blood"
+        }
+      ]
+    },
+    {
+      "class": "deathknight",
+      "spec": "blood",
+      "character": {
+        "name": "Ttvflarkness",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dawnbringer/ttvflarkness/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dawnbringer/ttvflarkness/",
+        "captured": 1794952721.3116784,
+        "captured_at": "2026-11-17T21:58:41.311678+00:00",
+        "capture_status": "captured",
+        "html_length": 1149672,
+        "raw_html_file": "captures/us/dawnbringer/ttvflarkness/20261117T215841311678Z.html",
+        "profile_data_file": "captures/us/dawnbringer/ttvflarkness/20261117T215841311678Z.json"
+      },
+      "appearances": [
+        {
+          "class": "deathknight",
+          "spec": "blood"
+        }
+      ]
+    },
+    {
+      "class": "deathknight",
+      "spec": "frost",
+      "character": {
+        "name": "Dirt",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/icecrown/dirt/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/icecrown/dirt/",
+        "captured": 1794952729.0835369,
+        "captured_at": "2026-11-17T21:58:49.083537+00:00",
+        "capture_status": "captured",
+        "html_length": 1828783,
+        "raw_html_file": "captures/us/icecrown/dirt/20261117T215849083537Z.html",
+        "profile_data_file": "captures/us/icecrown/dirt/20261117T215849083537Z.json"
+      },
+      "appearances": [
+        {
+          "class": "deathknight",
+          "spec": "frost"
+        }
+      ]
+    },
+    {
+      "class": "deathknight",
+      "spec": "frost",
+      "character": {
+        "name": "Colbz",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/colbz/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/colbz/",
+        "captured": 1794952734.9269617,
+        "captured_at": "2026-11-17T21:58:54.926962+00:00",
+        "capture_status": "captured",
+        "html_length": 1347487,
+        "raw_html_file": "captures/us/stormrage/colbz/20261117T215854926962Z.html",
+        "profile_data_file": "captures/us/stormrage/colbz/20261117T215854926962Z.json"
+      },
+      "appearances": [
+        {
+          "class": "deathknight",
+          "spec": "frost"
+        }
+      ]
+    },
+    {
+      "class": "deathknight",
+      "spec": "unholy",
+      "character": {
+        "name": "Ockle",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/ockle/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/ockle/",
+        "captured": 1794952743.3283284,
+        "captured_at": "2026-11-17T21:59:03.328328+00:00",
+        "capture_status": "captured",
+        "html_length": 508208,
+        "raw_html_file": "captures/us/sargeras/ockle/20261117T215903328328Z.html",
+        "profile_data_file": "captures/us/sargeras/ockle/20261117T215903328328Z.json"
+      },
+      "appearances": [
+        {
+          "class": "deathknight",
+          "spec": "unholy"
+        }
+      ]
+    },
+    {
+      "class": "deathknight",
+      "spec": "unholy",
+      "character": {
+        "name": "Budgetsonyd",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/budgetsonyd/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/budgetsonyd/",
+        "captured": 1794952746.7143478,
+        "captured_at": "2026-11-17T21:59:06.714348+00:00",
+        "capture_status": "captured",
+        "html_length": 581580,
+        "raw_html_file": "captures/us/sargeras/budgetsonyd/20261117T215906714348Z.html",
+        "profile_data_file": "captures/us/sargeras/budgetsonyd/20261117T215906714348Z.json"
+      },
+      "appearances": [
+        {
+          "class": "deathknight",
+          "spec": "unholy"
+        }
+      ]
+    },
+    {
+      "class": "warrior",
+      "spec": "arms",
+      "character": {
+        "name": "Megamonkey",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/megamonkey/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/megamonkey/",
+        "captured": 1794952753.7582135,
+        "captured_at": "2026-11-17T21:59:13.758214+00:00",
+        "capture_status": "captured",
+        "html_length": 1054475,
+        "raw_html_file": "captures/us/sargeras/megamonkey/20261117T215913758214Z.html",
+        "profile_data_file": "captures/us/sargeras/megamonkey/20261117T215913758214Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warrior",
+          "spec": "arms"
+        }
+      ]
+    },
+    {
+      "class": "warrior",
+      "spec": "arms",
+      "character": {
+        "name": "Îï",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/%C3%AE%C3%AF/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/%C3%AE%C3%AF/",
+        "captured": 1794952757.8811748,
+        "captured_at": "2026-11-17T21:59:17.881175+00:00",
+        "capture_status": "captured",
+        "html_length": 1083215,
+        "raw_html_file": "captures/us/sargeras/%C3%AE%C3%AF/20261117T215917881175Z.html",
+        "profile_data_file": "captures/us/sargeras/%C3%AE%C3%AF/20261117T215917881175Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warrior",
+          "spec": "arms"
+        }
+      ]
+    },
+    {
+      "class": "warrior",
+      "spec": "fury",
+      "character": {
+        "name": "Isnlonely",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/isnlonely/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/isnlonely/",
+        "captured": 1794952765.7193327,
+        "captured_at": "2026-11-17T21:59:25.719333+00:00",
+        "capture_status": "captured",
+        "html_length": 1557505,
+        "raw_html_file": "captures/us/tichondrius/isnlonely/20261117T215925719333Z.html",
+        "profile_data_file": "captures/us/tichondrius/isnlonely/20261117T215925719333Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warrior",
+          "spec": "fury"
+        }
+      ]
+    },
+    {
+      "class": "warrior",
+      "spec": "fury",
+      "character": {
+        "name": "Kenstlols",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/kenstlols/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/kenstlols/",
+        "captured": 1794952771.6262035,
+        "captured_at": "2026-11-17T21:59:31.626204+00:00",
+        "capture_status": "captured",
+        "html_length": 1323559,
+        "raw_html_file": "captures/us/tichondrius/kenstlols/20261117T215931626204Z.html",
+        "profile_data_file": "captures/us/tichondrius/kenstlols/20261117T215931626204Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warrior",
+          "spec": "fury"
+        }
+      ]
+    },
+    {
+      "class": "warrior",
+      "spec": "protection",
+      "character": {
+        "name": "Humanlog",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/humanlog/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/humanlog/",
+        "captured": 1794952779.8726647,
+        "captured_at": "2026-11-17T21:59:39.872665+00:00",
+        "capture_status": "captured",
+        "html_length": 1718925,
+        "raw_html_file": "captures/us/proudmoore/humanlog/20261117T215939872665Z.html",
+        "profile_data_file": "captures/us/proudmoore/humanlog/20261117T215939872665Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warrior",
+          "spec": "protection"
+        }
+      ]
+    },
+    {
+      "class": "warrior",
+      "spec": "protection",
+      "character": {
+        "name": "Logwarr",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/logwarr/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/logwarr/",
+        "captured": 1794952785.9646885,
+        "captured_at": "2026-11-17T21:59:45.964689+00:00",
+        "capture_status": "captured",
+        "html_length": 1127171,
+        "raw_html_file": "captures/us/tichondrius/logwarr/20261117T215945964689Z.html",
+        "profile_data_file": "captures/us/tichondrius/logwarr/20261117T215945964689Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warrior",
+          "spec": "protection"
+        }
+      ]
+    },
+    {
+      "class": "paladin",
+      "spec": "holy",
+      "character": {
+        "name": "Gabbito",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/gabbito/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/gabbito/",
+        "captured": 1794952796.3805985,
+        "captured_at": "2026-11-17T21:59:56.380599+00:00",
+        "capture_status": "captured",
+        "html_length": 985794,
+        "raw_html_file": "captures/us/sargeras/gabbito/20261117T215956380599Z.html",
+        "profile_data_file": "captures/us/sargeras/gabbito/20261117T215956380599Z.json"
+      },
+      "appearances": [
+        {
+          "class": "paladin",
+          "spec": "holy"
+        }
+      ]
+    },
+    {
+      "class": "paladin",
+      "spec": "holy",
+      "character": {
+        "name": "Juicedaddy",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/blackhand/juicedaddy/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/blackhand/juicedaddy/",
+        "captured": 1794952800.335505,
+        "captured_at": "2026-11-17T22:00:00.335505+00:00",
+        "capture_status": "captured",
+        "html_length": 1458424,
+        "raw_html_file": "captures/us/blackhand/juicedaddy/20261117T220000335505Z.html",
+        "profile_data_file": "captures/us/blackhand/juicedaddy/20261117T220000335505Z.json"
+      },
+      "appearances": [
+        {
+          "class": "paladin",
+          "spec": "holy"
+        }
+      ]
+    },
+    {
+      "class": "paladin",
+      "spec": "protection",
+      "character": {
+        "name": "Cloudx",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/shattered-hand/cloudx/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/shattered-hand/cloudx/",
+        "captured": 1794952809.6757197,
+        "captured_at": "2026-11-17T22:00:09.675720+00:00",
+        "capture_status": "captured",
+        "html_length": 1097957,
+        "raw_html_file": "captures/us/shattered-hand/cloudx/20261117T220009675720Z.html",
+        "profile_data_file": "captures/us/shattered-hand/cloudx/20261117T220009675720Z.json"
+      },
+      "appearances": [
+        {
+          "class": "paladin",
+          "spec": "protection"
+        }
+      ]
+    },
+    {
+      "class": "paladin",
+      "spec": "protection",
+      "character": {
+        "name": "Aluvia",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malygos/aluvia/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malygos/aluvia/",
+        "captured": 1794952814.1632285,
+        "captured_at": "2026-11-17T22:00:14.163229+00:00",
+        "capture_status": "captured",
+        "html_length": 1653094,
+        "raw_html_file": "captures/us/malygos/aluvia/20261117T220014163229Z.html",
+        "profile_data_file": "captures/us/malygos/aluvia/20261117T220014163229Z.json"
+      },
+      "appearances": [
+        {
+          "class": "paladin",
+          "spec": "protection"
+        }
+      ]
+    },
+    {
+      "class": "paladin",
+      "spec": "retribution",
+      "character": {
+        "name": "Drxw",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/drxw/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/drxw/",
+        "captured": 1794952823.5518343,
+        "captured_at": "2026-11-17T22:00:23.551834+00:00",
+        "capture_status": "captured",
+        "html_length": 1323826,
+        "raw_html_file": "captures/us/stormrage/drxw/20261117T220023551834Z.html",
+        "profile_data_file": "captures/us/stormrage/drxw/20261117T220023551834Z.json"
+      },
+      "appearances": [
+        {
+          "class": "paladin",
+          "spec": "retribution"
+        }
+      ]
+    },
+    {
+      "class": "paladin",
+      "spec": "retribution",
+      "character": {
+        "name": "Morfgore",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/ragnaros/morfgore/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/ragnaros/morfgore/",
+        "captured": 1794952837.981318,
+        "captured_at": "2026-11-17T22:00:37.981318+00:00",
+        "capture_status": "captured",
+        "html_length": 984725,
+        "raw_html_file": "captures/us/ragnaros/morfgore/20261117T220037981318Z.html",
+        "profile_data_file": "captures/us/ragnaros/morfgore/20261117T220037981318Z.json"
+      },
+      "appearances": [
+        {
+          "class": "paladin",
+          "spec": "retribution"
+        }
+      ]
+    },
+    {
+      "class": "hunter",
+      "spec": "beastmastery",
+      "character": {
+        "name": "Gennaro",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/ragnaros/gennaro/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/ragnaros/gennaro/",
+        "captured": 1794952845.5995467,
+        "captured_at": "2026-11-17T22:00:45.599547+00:00",
+        "capture_status": "captured",
+        "html_length": 1121754,
+        "raw_html_file": "captures/us/ragnaros/gennaro/20261117T220045599547Z.html",
+        "profile_data_file": "captures/us/ragnaros/gennaro/20261117T220045599547Z.json"
+      },
+      "appearances": [
+        {
+          "class": "hunter",
+          "spec": "beastmastery"
+        }
+      ]
+    },
+    {
+      "class": "hunter",
+      "spec": "beastmastery",
+      "character": {
+        "name": "Destrumz",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/destrumz/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/destrumz/",
+        "captured": 1794952850.200144,
+        "captured_at": "2026-11-17T22:00:50.200144+00:00",
+        "capture_status": "captured",
+        "html_length": 2198215,
+        "raw_html_file": "captures/us/zuljin/destrumz/20261117T220050200144Z.html",
+        "profile_data_file": "captures/us/zuljin/destrumz/20261117T220050200144Z.json"
+      },
+      "appearances": [
+        {
+          "class": "hunter",
+          "spec": "beastmastery"
+        }
+      ]
+    },
+    {
+      "class": "hunter",
+      "spec": "marksmanship",
+      "character": {
+        "name": "Çhùðmäxëð",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/illidan/%C3%A7h%C3%B9%C3%B0m%C3%A4x%C3%AB%C3%B0/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/illidan/%C3%A7h%C3%B9%C3%B0m%C3%A4x%C3%AB%C3%B0/",
+        "captured": 1794952859.8767,
+        "captured_at": "2026-11-17T22:00:59.876700+00:00",
+        "capture_status": "captured",
+        "html_length": 1397983,
+        "raw_html_file": "captures/us/illidan/%C3%A7h%C3%B9%C3%B0m%C3%A4x%C3%AB%C3%B0/20261117T220059876700Z.html",
+        "profile_data_file": "captures/us/illidan/%C3%A7h%C3%B9%C3%B0m%C3%A4x%C3%AB%C3%B0/20261117T220059876700Z.json"
+      },
+      "appearances": [
+        {
+          "class": "hunter",
+          "spec": "marksmanship"
+        }
+      ]
+    },
+    {
+      "class": "hunter",
+      "spec": "marksmanship",
+      "character": {
+        "name": "Ttcfivehunt",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/ttcfivehunt/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/ttcfivehunt/",
+        "captured": 1794952864.8314433,
+        "captured_at": "2026-11-17T22:01:04.831443+00:00",
+        "capture_status": "captured",
+        "html_length": 784746,
+        "raw_html_file": "captures/us/proudmoore/ttcfivehunt/20261117T220104831443Z.html",
+        "profile_data_file": "captures/us/proudmoore/ttcfivehunt/20261117T220104831443Z.json"
+      },
+      "appearances": [
+        {
+          "class": "hunter",
+          "spec": "marksmanship"
+        }
+      ]
+    },
+    {
+      "class": "hunter",
+      "spec": "survival",
+      "character": {
+        "name": "Jaywaz",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/jaywaz/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/jaywaz/",
+        "captured": 1794952872.103381,
+        "captured_at": "2026-11-17T22:01:12.103381+00:00",
+        "capture_status": "captured",
+        "html_length": 1275708,
+        "raw_html_file": "captures/us/tichondrius/jaywaz/20261117T220112103381Z.html",
+        "profile_data_file": "captures/us/tichondrius/jaywaz/20261117T220112103381Z.json"
+      },
+      "appearances": [
+        {
+          "class": "hunter",
+          "spec": "survival"
+        }
+      ]
+    },
+    {
+      "class": "hunter",
+      "spec": "survival",
+      "character": {
+        "name": "Wazere",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/wazere/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/wazere/",
+        "captured": 1794952877.1094975,
+        "captured_at": "2026-11-17T22:01:17.109498+00:00",
+        "capture_status": "captured",
+        "html_length": 863482,
+        "raw_html_file": "captures/us/tichondrius/wazere/20261117T220117109498Z.html",
+        "profile_data_file": "captures/us/tichondrius/wazere/20261117T220117109498Z.json"
+      },
+      "appearances": [
+        {
+          "class": "hunter",
+          "spec": "survival"
+        }
+      ]
+    },
+    {
+      "class": "rogue",
+      "spec": "assassination",
+      "character": {
+        "name": "Kayneur",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/medivh/kayneur/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/medivh/kayneur/",
+        "captured": 1794952885.3900156,
+        "captured_at": "2026-11-17T22:01:25.390016+00:00",
+        "capture_status": "captured",
+        "html_length": 675812,
+        "raw_html_file": "captures/us/medivh/kayneur/20261117T220125390016Z.html",
+        "profile_data_file": "captures/us/medivh/kayneur/20261117T220125390016Z.json"
+      },
+      "appearances": [
+        {
+          "class": "rogue",
+          "spec": "assassination"
+        }
+      ]
+    },
+    {
+      "class": "rogue",
+      "spec": "assassination",
+      "character": {
+        "name": "Alaissaelsia",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/alaissaelsia/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/alaissaelsia/",
+        "captured": 1794952889.110337,
+        "captured_at": "2026-11-17T22:01:29.110337+00:00",
+        "capture_status": "captured",
+        "html_length": 2069632,
+        "raw_html_file": "captures/us/tichondrius/alaissaelsia/20261117T220129110337Z.html",
+        "profile_data_file": "captures/us/tichondrius/alaissaelsia/20261117T220129110337Z.json"
+      },
+      "appearances": [
+        {
+          "class": "rogue",
+          "spec": "assassination"
+        }
+      ]
+    },
+    {
+      "class": "rogue",
+      "spec": "outlaw",
+      "character": {
+        "name": "Pvegodx",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/barthilas/pvegodx/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/barthilas/pvegodx/",
+        "captured": 1794952898.627206,
+        "captured_at": "2026-11-17T22:01:38.627206+00:00",
+        "capture_status": "captured",
+        "html_length": 1222865,
+        "raw_html_file": "captures/us/barthilas/pvegodx/20261117T220138627206Z.html",
+        "profile_data_file": "captures/us/barthilas/pvegodx/20261117T220138627206Z.json"
+      },
+      "appearances": [
+        {
+          "class": "rogue",
+          "spec": "outlaw"
+        }
+      ]
+    },
+    {
+      "class": "rogue",
+      "spec": "outlaw",
+      "character": {
+        "name": "Dzdgodx",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/dzdgodx/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/dzdgodx/",
+        "captured": 1794952903.209214,
+        "captured_at": "2026-11-17T22:01:43.209214+00:00",
+        "capture_status": "captured",
+        "html_length": 802719,
+        "raw_html_file": "captures/us/tichondrius/dzdgodx/20261117T220143209214Z.html",
+        "profile_data_file": "captures/us/tichondrius/dzdgodx/20261117T220143209214Z.json"
+      },
+      "appearances": [
+        {
+          "class": "rogue",
+          "spec": "outlaw"
+        }
+      ]
+    },
+    {
+      "class": "rogue",
+      "spec": "subtlety",
+      "character": {
+        "name": "Tea",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/undermine/tea/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/undermine/tea/",
+        "captured": 1794952910.2338889,
+        "captured_at": "2026-11-17T22:01:50.233889+00:00",
+        "capture_status": "captured",
+        "html_length": 1557661,
+        "raw_html_file": "captures/us/undermine/tea/20261117T220150233889Z.html",
+        "profile_data_file": "captures/us/undermine/tea/20261117T220150233889Z.json"
+      },
+      "appearances": [
+        {
+          "class": "rogue",
+          "spec": "subtlety"
+        }
+      ]
+    },
+    {
+      "class": "rogue",
+      "spec": "subtlety",
+      "character": {
+        "name": "Røbinhooe",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/r%C3%B8binhooe/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/r%C3%B8binhooe/",
+        "captured": 1794952915.520887,
+        "captured_at": "2026-11-17T22:01:55.520887+00:00",
+        "capture_status": "captured",
+        "html_length": 875009,
+        "raw_html_file": "captures/us/malganis/r%C3%B8binhooe/20261117T220155520887Z.html",
+        "profile_data_file": "captures/us/malganis/r%C3%B8binhooe/20261117T220155520887Z.json"
+      },
+      "appearances": [
+        {
+          "class": "rogue",
+          "spec": "subtlety"
+        }
+      ]
+    },
+    {
+      "class": "priest",
+      "spec": "discipline",
+      "character": {
+        "name": "Jnglpriestx",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/thrall/jnglpriestx/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/thrall/jnglpriestx/",
+        "captured": 1794952922.9096138,
+        "captured_at": "2026-11-17T22:02:02.909614+00:00",
+        "capture_status": "captured",
+        "html_length": 848314,
+        "raw_html_file": "captures/us/thrall/jnglpriestx/20261117T220202909614Z.html",
+        "profile_data_file": "captures/us/thrall/jnglpriestx/20261117T220202909614Z.json"
+      },
+      "appearances": [
+        {
+          "class": "priest",
+          "spec": "discipline"
+        }
+      ]
+    },
+    {
+      "class": "priest",
+      "spec": "discipline",
+      "character": {
+        "name": "Takhfiend",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/takhfiend/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/takhfiend/",
+        "captured": 1794952926.800473,
+        "captured_at": "2026-11-17T22:02:06.800473+00:00",
+        "capture_status": "captured",
+        "html_length": 1277041,
+        "raw_html_file": "captures/us/tichondrius/takhfiend/20261117T220206800473Z.html",
+        "profile_data_file": "captures/us/tichondrius/takhfiend/20261117T220206800473Z.json"
+      },
+      "appearances": [
+        {
+          "class": "priest",
+          "spec": "discipline"
+        }
+      ]
+    },
+    {
+      "class": "priest",
+      "spec": "holy",
+      "character": {
+        "name": "Greet",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/hyjal/greet/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/hyjal/greet/",
+        "captured": 1794952935.2534187,
+        "captured_at": "2026-11-17T22:02:15.253419+00:00",
+        "capture_status": "captured",
+        "html_length": 946667,
+        "raw_html_file": "captures/us/hyjal/greet/20261117T220215253419Z.html",
+        "profile_data_file": "captures/us/hyjal/greet/20261117T220215253419Z.json"
+      },
+      "appearances": [
+        {
+          "class": "priest",
+          "spec": "holy"
+        }
+      ]
+    },
+    {
+      "class": "priest",
+      "spec": "holy",
+      "character": {
+        "name": "Peatr",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/hyjal/peatr/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/hyjal/peatr/",
+        "captured": 1794952939.236927,
+        "captured_at": "2026-11-17T22:02:19.236927+00:00",
+        "capture_status": "captured",
+        "html_length": 666953,
+        "raw_html_file": "captures/us/hyjal/peatr/20261117T220219236927Z.html",
+        "profile_data_file": "captures/us/hyjal/peatr/20261117T220219236927Z.json"
+      },
+      "appearances": [
+        {
+          "class": "priest",
+          "spec": "holy"
+        }
+      ]
+    },
+    {
+      "class": "priest",
+      "spec": "shadow",
+      "character": {
+        "name": "Peterlongrod",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/peterlongrod/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/peterlongrod/",
+        "captured": 1794952946.2152088,
+        "captured_at": "2026-11-17T22:02:26.215209+00:00",
+        "capture_status": "captured",
+        "html_length": 1371985,
+        "raw_html_file": "captures/us/malganis/peterlongrod/20261117T220226215209Z.html",
+        "profile_data_file": "captures/us/malganis/peterlongrod/20261117T220226215209Z.json"
+      },
+      "appearances": [
+        {
+          "class": "priest",
+          "spec": "shadow"
+        }
+      ]
+    },
+    {
+      "class": "priest",
+      "spec": "shadow",
+      "character": {
+        "name": "Envyion",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/envyion/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/envyion/",
+        "captured": 1794952950.6321943,
+        "captured_at": "2026-11-17T22:02:30.632194+00:00",
+        "capture_status": "captured",
+        "html_length": 1491036,
+        "raw_html_file": "captures/us/sargeras/envyion/20261117T220230632194Z.html",
+        "profile_data_file": "captures/us/sargeras/envyion/20261117T220230632194Z.json"
+      },
+      "appearances": [
+        {
+          "class": "priest",
+          "spec": "shadow"
+        }
+      ]
+    },
+    {
+      "class": "shaman",
+      "spec": "elemental",
+      "character": {
+        "name": "Iritamsi",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/illidan/iritamsi/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/illidan/iritamsi/",
+        "captured": 1794952959.265248,
+        "captured_at": "2026-11-17T22:02:39.265248+00:00",
+        "capture_status": "captured",
+        "html_length": 712986,
+        "raw_html_file": "captures/us/illidan/iritamsi/20261117T220239265248Z.html",
+        "profile_data_file": "captures/us/illidan/iritamsi/20261117T220239265248Z.json"
+      },
+      "appearances": [
+        {
+          "class": "shaman",
+          "spec": "elemental"
+        }
+      ]
+    },
+    {
+      "class": "shaman",
+      "spec": "elemental",
+      "character": {
+        "name": "Meatbeaterx",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/aggramar/meatbeaterx/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/aggramar/meatbeaterx/",
+        "captured": 1794952962.8695455,
+        "captured_at": "2026-11-17T22:02:42.869545+00:00",
+        "capture_status": "captured",
+        "html_length": 756514,
+        "raw_html_file": "captures/us/aggramar/meatbeaterx/20261117T220242869545Z.html",
+        "profile_data_file": "captures/us/aggramar/meatbeaterx/20261117T220242869545Z.json"
+      },
+      "appearances": [
+        {
+          "class": "shaman",
+          "spec": "elemental"
+        }
+      ]
+    },
+    {
+      "class": "shaman",
+      "spec": "enhancement",
+      "character": {
+        "name": "Quesimulator",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/quesimulator/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/quesimulator/",
+        "captured": 1794952971.3316712,
+        "captured_at": "2026-11-17T22:02:51.331671+00:00",
+        "capture_status": "captured",
+        "html_length": 960858,
+        "raw_html_file": "captures/us/stormrage/quesimulator/20261117T220251331671Z.html",
+        "profile_data_file": "captures/us/stormrage/quesimulator/20261117T220251331671Z.json"
+      },
+      "appearances": [
+        {
+          "class": "shaman",
+          "spec": "enhancement"
+        }
+      ]
+    },
+    {
+      "class": "shaman",
+      "spec": "enhancement",
+      "character": {
+        "name": "Resetmmr",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/resetmmr/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/resetmmr/",
+        "captured": 1794952975.2870882,
+        "captured_at": "2026-11-17T22:02:55.287088+00:00",
+        "capture_status": "captured",
+        "html_length": 833970,
+        "raw_html_file": "captures/us/stormrage/resetmmr/20261117T220255287088Z.html",
+        "profile_data_file": "captures/us/stormrage/resetmmr/20261117T220255287088Z.json"
+      },
+      "appearances": [
+        {
+          "class": "shaman",
+          "spec": "enhancement"
+        }
+      ]
+    },
+    {
+      "class": "shaman",
+      "spec": "restoration",
+      "character": {
+        "name": "Goodgrief",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/goodgrief/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/goodgrief/",
+        "captured": 1794952982.803833,
+        "captured_at": "2026-11-17T22:03:02.803833+00:00",
+        "capture_status": "captured",
+        "html_length": 1120790,
+        "raw_html_file": "captures/us/zuljin/goodgrief/20261117T220302803833Z.html",
+        "profile_data_file": "captures/us/zuljin/goodgrief/20261117T220302803833Z.json"
+      },
+      "appearances": [
+        {
+          "class": "shaman",
+          "spec": "restoration"
+        }
+      ]
+    },
+    {
+      "class": "shaman",
+      "spec": "restoration",
+      "character": {
+        "name": "Djbluex",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/djbluex/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/djbluex/",
+        "captured": 1794952987.5040572,
+        "captured_at": "2026-11-17T22:03:07.504057+00:00",
+        "capture_status": "captured",
+        "html_length": 1457947,
+        "raw_html_file": "captures/us/tichondrius/djbluex/20261117T220307504057Z.html",
+        "profile_data_file": "captures/us/tichondrius/djbluex/20261117T220307504057Z.json"
+      },
+      "appearances": [
+        {
+          "class": "shaman",
+          "spec": "restoration"
+        }
+      ]
+    },
+    {
+      "class": "mage",
+      "spec": "arcane",
+      "character": {
+        "name": "Austin",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/austin/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/austin/",
+        "captured": 1794952995.8503103,
+        "captured_at": "2026-11-17T22:03:15.850310+00:00",
+        "capture_status": "captured",
+        "html_length": 818277,
+        "raw_html_file": "captures/us/sargeras/austin/20261117T220315850310Z.html",
+        "profile_data_file": "captures/us/sargeras/austin/20261117T220315850310Z.json"
+      },
+      "appearances": [
+        {
+          "class": "mage",
+          "spec": "arcane"
+        }
+      ]
+    },
+    {
+      "class": "mage",
+      "spec": "arcane",
+      "character": {
+        "name": "Blackpetkick",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/blackpetkick/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/blackpetkick/",
+        "captured": 1794952999.918273,
+        "captured_at": "2026-11-17T22:03:19.918273+00:00",
+        "capture_status": "captured",
+        "html_length": 966309,
+        "raw_html_file": "captures/us/sargeras/blackpetkick/20261117T220319918273Z.html",
+        "profile_data_file": "captures/us/sargeras/blackpetkick/20261117T220319918273Z.json"
+      },
+      "appearances": [
+        {
+          "class": "mage",
+          "spec": "arcane"
+        }
+      ]
+    },
+    {
+      "class": "mage",
+      "spec": "fire",
+      "character": {
+        "name": "Polynike",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/polynike/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/polynike/",
+        "captured": 1794953019.0076418,
+        "captured_at": "2026-11-17T22:03:39.007642+00:00",
+        "capture_status": "captured",
+        "html_length": 1706388,
+        "raw_html_file": "captures/us/tichondrius/polynike/20261117T220339007642Z.html",
+        "profile_data_file": "captures/us/tichondrius/polynike/20261117T220339007642Z.json"
+      },
+      "appearances": [
+        {
+          "class": "mage",
+          "spec": "fire"
+        }
+      ]
+    },
+    {
+      "class": "mage",
+      "spec": "fire",
+      "character": {
+        "name": "Toerubbinæzn",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/toerubbin%C3%A6zn/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/toerubbin%C3%A6zn/",
+        "captured": 1794953024.0709262,
+        "captured_at": "2026-11-17T22:03:44.070926+00:00",
+        "capture_status": "captured",
+        "html_length": 2736918,
+        "raw_html_file": "captures/us/sargeras/toerubbin%C3%A6zn/20261117T220344070926Z.html",
+        "profile_data_file": "captures/us/sargeras/toerubbin%C3%A6zn/20261117T220344070926Z.json"
+      },
+      "appearances": [
+        {
+          "class": "mage",
+          "spec": "fire"
+        }
+      ]
+    },
+    {
+      "class": "mage",
+      "spec": "frost",
+      "character": {
+        "name": "Flamethrower",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/flamethrower/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/flamethrower/",
+        "captured": 1794953034.957196,
+        "captured_at": "2026-11-17T22:03:54.957196+00:00",
+        "capture_status": "captured",
+        "html_length": 1275364,
+        "raw_html_file": "captures/us/tichondrius/flamethrower/20261117T220354957196Z.html",
+        "profile_data_file": "captures/us/tichondrius/flamethrower/20261117T220354957196Z.json"
+      },
+      "appearances": [
+        {
+          "class": "mage",
+          "spec": "frost"
+        }
+      ]
+    },
+    {
+      "class": "mage",
+      "spec": "frost",
+      "character": {
+        "name": "Polynike",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/polynike/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/polynike/",
+        "captured": 1794953039.55612,
+        "captured_at": "2026-11-17T22:03:59.556120+00:00",
+        "capture_status": "captured",
+        "html_length": 1706388,
+        "raw_html_file": "captures/us/tichondrius/polynike/20261117T220359556120Z.html",
+        "profile_data_file": "captures/us/tichondrius/polynike/20261117T220359556120Z.json"
+      },
+      "appearances": [
+        {
+          "class": "mage",
+          "spec": "frost"
+        }
+      ]
+    },
+    {
+      "class": "warlock",
+      "spec": "affliction",
+      "character": {
+        "name": "Wardin",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dragonmaw/wardin/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dragonmaw/wardin/",
+        "captured": 1794953048.4906812,
+        "captured_at": "2026-11-17T22:04:08.490681+00:00",
+        "capture_status": "captured",
+        "html_length": 1401956,
+        "raw_html_file": "captures/us/dragonmaw/wardin/20261117T220408490681Z.html",
+        "profile_data_file": "captures/us/dragonmaw/wardin/20261117T220408490681Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warlock",
+          "spec": "affliction"
+        }
+      ]
+    },
+    {
+      "class": "warlock",
+      "spec": "affliction",
+      "character": {
+        "name": "Minkyu",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/minkyu/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/minkyu/",
+        "captured": 1794953053.1180065,
+        "captured_at": "2026-11-17T22:04:13.118006+00:00",
+        "capture_status": "captured",
+        "html_length": 875705,
+        "raw_html_file": "captures/us/proudmoore/minkyu/20261117T220413118006Z.html",
+        "profile_data_file": "captures/us/proudmoore/minkyu/20261117T220413118006Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warlock",
+          "spec": "affliction"
+        }
+      ]
+    },
+    {
+      "class": "warlock",
+      "spec": "demonology",
+      "character": {
+        "name": "Adonege",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/adonege/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/adonege/",
+        "captured": 1794953063.1953244,
+        "captured_at": "2026-11-17T22:04:23.195324+00:00",
+        "capture_status": "captured",
+        "html_length": 1692953,
+        "raw_html_file": "captures/us/tichondrius/adonege/20261117T220423195324Z.html",
+        "profile_data_file": "captures/us/tichondrius/adonege/20261117T220423195324Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warlock",
+          "spec": "demonology"
+        }
+      ]
+    },
+    {
+      "class": "warlock",
+      "spec": "demonology",
+      "character": {
+        "name": "Beeflocktom",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/beeflocktom/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/beeflocktom/",
+        "captured": 1794953069.9597688,
+        "captured_at": "2026-11-17T22:04:29.959769+00:00",
+        "capture_status": "captured",
+        "html_length": 1294993,
+        "raw_html_file": "captures/us/tichondrius/beeflocktom/20261117T220429959769Z.html",
+        "profile_data_file": "captures/us/tichondrius/beeflocktom/20261117T220429959769Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warlock",
+          "spec": "demonology"
+        }
+      ]
+    },
+    {
+      "class": "warlock",
+      "spec": "destruction",
+      "character": {
+        "name": "Níenarýa",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/skullcrusher/n%C3%ADenar%C3%BDa/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/skullcrusher/n%C3%ADenar%C3%BDa/",
+        "captured": 1794953079.7062147,
+        "captured_at": "2026-11-17T22:04:39.706215+00:00",
+        "capture_status": "captured",
+        "html_length": 1571779,
+        "raw_html_file": "captures/us/skullcrusher/n%C3%ADenar%C3%BDa/20261117T220439706215Z.html",
+        "profile_data_file": "captures/us/skullcrusher/n%C3%ADenar%C3%BDa/20261117T220439706215Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warlock",
+          "spec": "destruction"
+        }
+      ]
+    },
+    {
+      "class": "warlock",
+      "spec": "destruction",
+      "character": {
+        "name": "Diirtydawgg",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/bleeding-hollow/diirtydawgg/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/bleeding-hollow/diirtydawgg/",
+        "captured": 1794953085.8696158,
+        "captured_at": "2026-11-17T22:04:45.869616+00:00",
+        "capture_status": "captured",
+        "html_length": 1564437,
+        "raw_html_file": "captures/us/bleeding-hollow/diirtydawgg/20261117T220445869616Z.html",
+        "profile_data_file": "captures/us/bleeding-hollow/diirtydawgg/20261117T220445869616Z.json"
+      },
+      "appearances": [
+        {
+          "class": "warlock",
+          "spec": "destruction"
+        }
+      ]
+    },
+    {
+      "class": "monk",
+      "spec": "brewmaster",
+      "character": {
+        "name": "Imasterl",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/imasterl/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/imasterl/",
+        "captured": 1794953096.293823,
+        "captured_at": "2026-11-17T22:04:56.293823+00:00",
+        "capture_status": "captured",
+        "html_length": 1747659,
+        "raw_html_file": "captures/us/proudmoore/imasterl/20261117T220456293823Z.html",
+        "profile_data_file": "captures/us/proudmoore/imasterl/20261117T220456293823Z.json"
+      },
+      "appearances": [
+        {
+          "class": "monk",
+          "spec": "brewmaster"
+        }
+      ]
+    },
+    {
+      "class": "monk",
+      "spec": "brewmaster",
+      "character": {
+        "name": "Cba",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/frostmourne/cba/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/frostmourne/cba/",
+        "captured": 1794953103.328766,
+        "captured_at": "2026-11-17T22:05:03.328766+00:00",
+        "capture_status": "captured",
+        "html_length": 1576577,
+        "raw_html_file": "captures/us/frostmourne/cba/20261117T220503328766Z.html",
+        "profile_data_file": "captures/us/frostmourne/cba/20261117T220503328766Z.json"
+      },
+      "appearances": [
+        {
+          "class": "monk",
+          "spec": "brewmaster"
+        }
+      ]
+    },
+    {
+      "class": "monk",
+      "spec": "mistweaver",
+      "character": {
+        "name": "Meepsweep",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/meepsweep/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/meepsweep/",
+        "captured": 1794953113.198803,
+        "captured_at": "2026-11-17T22:05:13.198803+00:00",
+        "capture_status": "captured",
+        "html_length": 1157601,
+        "raw_html_file": "captures/us/tichondrius/meepsweep/20261117T220513198803Z.html",
+        "profile_data_file": "captures/us/tichondrius/meepsweep/20261117T220513198803Z.json"
+      },
+      "appearances": [
+        {
+          "class": "monk",
+          "spec": "mistweaver"
+        }
+      ]
+    },
+    {
+      "class": "monk",
+      "spec": "mistweaver",
+      "character": {
+        "name": "Dasrite",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/dasrite/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/dasrite/",
+        "captured": 1794953118.059051,
+        "captured_at": "2026-11-17T22:05:18.059051+00:00",
+        "capture_status": "captured",
+        "html_length": 1013080,
+        "raw_html_file": "captures/us/zuljin/dasrite/20261117T220518059051Z.html",
+        "profile_data_file": "captures/us/zuljin/dasrite/20261117T220518059051Z.json"
+      },
+      "appearances": [
+        {
+          "class": "monk",
+          "spec": "mistweaver"
+        }
+      ]
+    },
+    {
+      "class": "monk",
+      "spec": "windwalker",
+      "character": {
+        "name": "Nate",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/frostmourne/nate/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/frostmourne/nate/",
+        "captured": 1794953126.2205164,
+        "captured_at": "2026-11-17T22:05:26.220516+00:00",
+        "capture_status": "captured",
+        "html_length": 2794446,
+        "raw_html_file": "captures/us/frostmourne/nate/20261117T220526220516Z.html",
+        "profile_data_file": "captures/us/frostmourne/nate/20261117T220526220516Z.json"
+      },
+      "appearances": [
+        {
+          "class": "monk",
+          "spec": "windwalker"
+        }
+      ]
+    },
+    {
+      "class": "monk",
+      "spec": "windwalker",
+      "character": {
+        "name": "Sleepmaxxing",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/blackrock/sleepmaxxing/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/blackrock/sleepmaxxing/",
+        "captured": 1794953133.8562121,
+        "captured_at": "2026-11-17T22:05:33.856212+00:00",
+        "capture_status": "captured",
+        "html_length": 749278,
+        "raw_html_file": "captures/us/blackrock/sleepmaxxing/20261117T220533856212Z.html",
+        "profile_data_file": "captures/us/blackrock/sleepmaxxing/20261117T220533856212Z.json"
+      },
+      "appearances": [
+        {
+          "class": "monk",
+          "spec": "windwalker"
+        }
+      ]
+    },
+    {
+      "class": "druid",
+      "spec": "balance",
+      "character": {
+        "name": "Shardsd",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/illidan/shardsd/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/illidan/shardsd/",
+        "captured": 1794953141.5474753,
+        "captured_at": "2026-11-17T22:05:41.547475+00:00",
+        "capture_status": "captured",
+        "html_length": 1715533,
+        "raw_html_file": "captures/us/illidan/shardsd/20261117T220541547475Z.html",
+        "profile_data_file": "captures/us/illidan/shardsd/20261117T220541547475Z.json"
+      },
+      "appearances": [
+        {
+          "class": "druid",
+          "spec": "balance"
+        }
+      ]
+    },
+    {
+      "class": "druid",
+      "spec": "balance",
+      "character": {
+        "name": "Gspasburzodx",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dalaran/gspasburzodx/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dalaran/gspasburzodx/",
+        "captured": 1794953147.1854365,
+        "captured_at": "2026-11-17T22:05:47.185436+00:00",
+        "capture_status": "captured",
+        "html_length": 705974,
+        "raw_html_file": "captures/us/dalaran/gspasburzodx/20261117T220547185436Z.html",
+        "profile_data_file": "captures/us/dalaran/gspasburzodx/20261117T220547185436Z.json"
+      },
+      "appearances": [
+        {
+          "class": "druid",
+          "spec": "balance"
+        }
+      ]
+    },
+    {
+      "class": "druid",
+      "spec": "feral",
+      "character": {
+        "name": "Deadlift",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/bloodscalp/deadlift/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/bloodscalp/deadlift/",
+        "captured": 1794953155.0032003,
+        "captured_at": "2026-11-17T22:05:55.003200+00:00",
+        "capture_status": "captured",
+        "html_length": 653475,
+        "raw_html_file": "captures/us/bloodscalp/deadlift/20261117T220555003200Z.html",
+        "profile_data_file": "captures/us/bloodscalp/deadlift/20261117T220555003200Z.json"
+      },
+      "appearances": [
+        {
+          "class": "druid",
+          "spec": "feral"
+        }
+      ]
+    },
+    {
+      "class": "druid",
+      "spec": "feral",
+      "character": {
+        "name": "Macaronitime",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/area-52/macaronitime/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/area-52/macaronitime/",
+        "captured": 1794953158.5761135,
+        "captured_at": "2026-11-17T22:05:58.576113+00:00",
+        "capture_status": "captured",
+        "html_length": 1257282,
+        "raw_html_file": "captures/us/area-52/macaronitime/20261117T220558576113Z.html",
+        "profile_data_file": "captures/us/area-52/macaronitime/20261117T220558576113Z.json"
+      },
+      "appearances": [
+        {
+          "class": "druid",
+          "spec": "feral"
+        }
+      ]
+    },
+    {
+      "class": "druid",
+      "spec": "guardian",
+      "character": {
+        "name": "Zyhsul",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/zyhsul/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/zyhsul/",
+        "captured": 1794953166.9646375,
+        "captured_at": "2026-11-17T22:06:06.964638+00:00",
+        "capture_status": "captured",
+        "html_length": 1906996,
+        "raw_html_file": "captures/us/emerald-dream/zyhsul/20261117T220606964638Z.html",
+        "profile_data_file": "captures/us/emerald-dream/zyhsul/20261117T220606964638Z.json"
+      },
+      "appearances": [
+        {
+          "class": "druid",
+          "spec": "guardian"
+        }
+      ]
+    },
+    {
+      "class": "druid",
+      "spec": "guardian",
+      "character": {
+        "name": "Inavirus",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/inavirus/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/emerald-dream/inavirus/",
+        "captured": 1794953172.9281695,
+        "captured_at": "2026-11-17T22:06:12.928169+00:00",
+        "capture_status": "captured",
+        "html_length": 902240,
+        "raw_html_file": "captures/us/emerald-dream/inavirus/20261117T220612928169Z.html",
+        "profile_data_file": "captures/us/emerald-dream/inavirus/20261117T220612928169Z.json"
+      },
+      "appearances": [
+        {
+          "class": "druid",
+          "spec": "guardian"
+        }
+      ]
+    },
+    {
+      "class": "druid",
+      "spec": "restoration",
+      "character": {
+        "name": "Noworriesbro",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/noworriesbro/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/zuljin/noworriesbro/",
+        "captured": 1794953181.1659544,
+        "captured_at": "2026-11-17T22:06:21.165954+00:00",
+        "capture_status": "captured",
+        "html_length": 1106851,
+        "raw_html_file": "captures/us/zuljin/noworriesbro/20261117T220621165954Z.html",
+        "profile_data_file": "captures/us/zuljin/noworriesbro/20261117T220621165954Z.json"
+      },
+      "appearances": [
+        {
+          "class": "druid",
+          "spec": "restoration"
+        }
+      ]
+    },
+    {
+      "class": "druid",
+      "spec": "restoration",
+      "character": {
+        "name": "Phrase",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/moon-guard/phrase/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/moon-guard/phrase/",
+        "captured": 1794953185.493657,
+        "captured_at": "2026-11-17T22:06:25.493657+00:00",
+        "capture_status": "captured",
+        "html_length": 1205005,
+        "raw_html_file": "captures/us/moon-guard/phrase/20261117T220625493657Z.html",
+        "profile_data_file": "captures/us/moon-guard/phrase/20261117T220625493657Z.json"
+      },
+      "appearances": [
+        {
+          "class": "druid",
+          "spec": "restoration"
+        }
+      ]
+    },
+    {
+      "class": "demonhunter",
+      "spec": "havoc",
+      "character": {
+        "name": "Foxyllamadh",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/burning-blade/foxyllamadh/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/burning-blade/foxyllamadh/",
+        "captured": 1794953193.8247876,
+        "captured_at": "2026-11-17T22:06:33.824788+00:00",
+        "capture_status": "captured",
+        "html_length": 644571,
+        "raw_html_file": "captures/us/burning-blade/foxyllamadh/20261117T220633824788Z.html",
+        "profile_data_file": "captures/us/burning-blade/foxyllamadh/20261117T220633824788Z.json"
+      },
+      "appearances": [
+        {
+          "class": "demonhunter",
+          "spec": "havoc"
+        }
+      ]
+    },
+    {
+      "class": "demonhunter",
+      "spec": "havoc",
+      "character": {
+        "name": "Classfantasy",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/bleeding-hollow/classfantasy/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/bleeding-hollow/classfantasy/",
+        "captured": 1794953197.4535248,
+        "captured_at": "2026-11-17T22:06:37.453525+00:00",
+        "capture_status": "captured",
+        "html_length": 1143930,
+        "raw_html_file": "captures/us/bleeding-hollow/classfantasy/20261117T220637453525Z.html",
+        "profile_data_file": "captures/us/bleeding-hollow/classfantasy/20261117T220637453525Z.json"
+      },
+      "appearances": [
+        {
+          "class": "demonhunter",
+          "spec": "havoc"
+        }
+      ]
+    },
+    {
+      "class": "demonhunter",
+      "spec": "vengeance",
+      "character": {
+        "name": "Zoeykpop",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/zoeykpop/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/zoeykpop/",
+        "captured": 1794953205.7501729,
+        "captured_at": "2026-11-17T22:06:45.750173+00:00",
+        "capture_status": "captured",
+        "html_length": 725867,
+        "raw_html_file": "captures/us/malganis/zoeykpop/20261117T220645750173Z.html",
+        "profile_data_file": "captures/us/malganis/zoeykpop/20261117T220645750173Z.json"
+      },
+      "appearances": [
+        {
+          "class": "demonhunter",
+          "spec": "vengeance"
+        }
+      ]
+    },
+    {
+      "class": "demonhunter",
+      "spec": "vengeance",
+      "character": {
+        "name": "Rumikpop",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/rumikpop/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/rumikpop/",
+        "captured": 1794953209.584327,
+        "captured_at": "2026-11-17T22:06:49.584327+00:00",
+        "capture_status": "captured",
+        "html_length": 1174335,
+        "raw_html_file": "captures/us/malganis/rumikpop/20261117T220649584327Z.html",
+        "profile_data_file": "captures/us/malganis/rumikpop/20261117T220649584327Z.json"
+      },
+      "appearances": [
+        {
+          "class": "demonhunter",
+          "spec": "vengeance"
+        }
+      ]
+    },
+    {
+      "class": "evoker",
+      "spec": "augmentation",
+      "character": {
+        "name": "Youginong",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/youginong/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/youginong/",
+        "captured": 1794953217.9193525,
+        "captured_at": "2026-11-17T22:06:57.919353+00:00",
+        "capture_status": "captured",
+        "html_length": 1196313,
+        "raw_html_file": "captures/us/tichondrius/youginong/20261117T220657919353Z.html",
+        "profile_data_file": "captures/us/tichondrius/youginong/20261117T220657919353Z.json"
+      },
+      "appearances": [
+        {
+          "class": "evoker",
+          "spec": "augmentation"
+        }
+      ]
+    },
+    {
+      "class": "evoker",
+      "spec": "augmentation",
+      "character": {
+        "name": "Yukinozzang",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/yukinozzang/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/tichondrius/yukinozzang/",
+        "captured": 1794953222.693746,
+        "captured_at": "2026-11-17T22:07:02.693746+00:00",
+        "capture_status": "captured",
+        "html_length": 735035,
+        "raw_html_file": "captures/us/tichondrius/yukinozzang/20261117T220702693746Z.html",
+        "profile_data_file": "captures/us/tichondrius/yukinozzang/20261117T220702693746Z.json"
+      },
+      "appearances": [
+        {
+          "class": "evoker",
+          "spec": "augmentation"
+        }
+      ]
+    },
+    {
+      "class": "evoker",
+      "spec": "devastation",
+      "character": {
+        "name": "Dzdv",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/dzdv/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/stormrage/dzdv/",
+        "captured": 1794953230.2767856,
+        "captured_at": "2026-11-17T22:07:10.276786+00:00",
+        "capture_status": "captured",
+        "html_length": 948270,
+        "raw_html_file": "captures/us/stormrage/dzdv/20261117T220710276786Z.html",
+        "profile_data_file": "captures/us/stormrage/dzdv/20261117T220710276786Z.json"
+      },
+      "appearances": [
+        {
+          "class": "evoker",
+          "spec": "devastation"
+        }
+      ]
+    },
+    {
+      "class": "evoker",
+      "spec": "devastation",
+      "character": {
+        "name": "Iceddietcoke",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/draktharon/iceddietcoke/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/draktharon/iceddietcoke/",
+        "captured": 1794953234.33222,
+        "captured_at": "2026-11-17T22:07:14.332220+00:00",
+        "capture_status": "captured",
+        "html_length": 788269,
+        "raw_html_file": "captures/us/draktharon/iceddietcoke/20261117T220714332220Z.html",
+        "profile_data_file": "captures/us/draktharon/iceddietcoke/20261117T220714332220Z.json"
+      },
+      "appearances": [
+        {
+          "class": "evoker",
+          "spec": "devastation"
+        }
+      ]
+    },
+    {
+      "class": "evoker",
+      "spec": "preservation",
+      "character": {
+        "name": "Itimbutiki",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/moon-guard/itimbutiki/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/moon-guard/itimbutiki/",
+        "captured": 1794953241.834007,
+        "captured_at": "2026-11-17T22:07:21.834007+00:00",
+        "capture_status": "captured",
+        "html_length": 953437,
+        "raw_html_file": "captures/us/moon-guard/itimbutiki/20261117T220721834007Z.html",
+        "profile_data_file": "captures/us/moon-guard/itimbutiki/20261117T220721834007Z.json"
+      },
+      "appearances": [
+        {
+          "class": "evoker",
+          "spec": "preservation"
+        }
+      ]
+    },
+    {
+      "class": "evoker",
+      "spec": "preservation",
+      "character": {
+        "name": "Dilating",
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/dilating/"
+      },
+      "snapshot": {
+        "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/dilating/",
+        "captured": 1794953246.7434092,
+        "captured_at": "2026-11-17T22:07:26.743409+00:00",
+        "capture_status": "captured",
+        "html_length": 1383155,
+        "raw_html_file": "captures/us/sargeras/dilating/20261117T220726743409Z.html",
+        "profile_data_file": "captures/us/sargeras/dilating/20261117T220726743409Z.json"
+      },
+      "appearances": [
+        {
+          "class": "evoker",
+          "spec": "preservation"
+        }
+      ]
+    }
+  ]
+}

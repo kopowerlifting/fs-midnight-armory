@@ -1,0 +1,36 @@
+[
+  {
+    "class": "demonhunter",
+    "spec": "vengeance",
+    "character": {
+      "name": "Zoeykpop",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/zoeykpop/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/zoeykpop/",
+      "captured": 1794953205.7501729,
+      "captured_at": "2026-11-17T22:06:45.750173+00:00",
+      "capture_status": "captured",
+      "html_length": 725867,
+      "raw_html_file": "captures/us/malganis/zoeykpop/20261117T220645750173Z.html",
+      "profile_data_file": "captures/us/malganis/zoeykpop/20261117T220645750173Z.json"
+    }
+  },
+  {
+    "class": "demonhunter",
+    "spec": "vengeance",
+    "character": {
+      "name": "Rumikpop",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/rumikpop/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malganis/rumikpop/",
+      "captured": 1794953209.584327,
+      "captured_at": "2026-11-17T22:06:49.584327+00:00",
+      "capture_status": "captured",
+      "html_length": 1174335,
+      "raw_html_file": "captures/us/malganis/rumikpop/20261117T220649584327Z.html",
+      "profile_data_file": "captures/us/malganis/rumikpop/20261117T220649584327Z.json"
+    }
+  }
+]

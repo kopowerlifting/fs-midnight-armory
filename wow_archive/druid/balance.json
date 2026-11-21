@@ -1,0 +1,36 @@
+[
+  {
+    "class": "druid",
+    "spec": "balance",
+    "character": {
+      "name": "Shardsd",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/illidan/shardsd/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/illidan/shardsd/",
+      "captured": 1794953141.5474753,
+      "captured_at": "2026-11-17T22:05:41.547475+00:00",
+      "capture_status": "captured",
+      "html_length": 1715533,
+      "raw_html_file": "captures/us/illidan/shardsd/20261117T220541547475Z.html",
+      "profile_data_file": "captures/us/illidan/shardsd/20261117T220541547475Z.json"
+    }
+  },
+  {
+    "class": "druid",
+    "spec": "balance",
+    "character": {
+      "name": "Gspasburzodx",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dalaran/gspasburzodx/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dalaran/gspasburzodx/",
+      "captured": 1794953147.1854365,
+      "captured_at": "2026-11-17T22:05:47.185436+00:00",
+      "capture_status": "captured",
+      "html_length": 705974,
+      "raw_html_file": "captures/us/dalaran/gspasburzodx/20261117T220547185436Z.html",
+      "profile_data_file": "captures/us/dalaran/gspasburzodx/20261117T220547185436Z.json"
+    }
+  }
+]

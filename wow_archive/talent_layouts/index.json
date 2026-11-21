@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "source": "Blizzard Game Data API",
+  "region": "us",
+  "namespace": "static-us",
+  "locale": "en_US",
+  "captured_at": "2026-11-18T05:27:34.426766+00:00",
+  "expected_layout_count": 40,
+  "layout_count": 40,
+  "layouts": [
+    {
+      "class": "hunter",
+      "spec": "marksmanship",
+      "path": "talent_layouts/static-us/hunter/marksmanship.json",
+      "tree_id": 774,
+      "specialization_id": 254
+    },
+    {
+      "class": "hunter",
+      "spec": "survival",
+      "path": "talent_layouts/static-us/hunter/survival.json",
+      "tree_id": 774,
+      "specialization_id": 255
+    },
+    {
+      "class": "hunter",
+      "spec": "beast-mastery",
+      "path": "talent_layouts/static-us/hunter/beast-mastery.json",
+      "tree_id": 774,
+      "specialization_id": 253
+    },
+    {
+      "class": "shaman",
+      "spec": "restoration",
+      "path": "talent_layouts/static-us/shaman/restoration.json",
+      "tree_id": 786,
+      "specialization_id": 264
+    },
+    {
+      "class": "shaman",
+      "spec": "enhancement",
+      "path": "talent_layouts/static-us/shaman/enhancement.json",
+      "tree_id": 786,
+      "specialization_id": 263
+    },
+    {
+      "class": "shaman",
+      "spec": "elemental",
+      "path": "talent_layouts/static-us/shaman/elemental.json",
+      "tree_id": 786,
+      "specialization_id": 262
+    },
+    {
+      "class": "druid",
+      "spec": "balance",
+      "path": "talent_layouts/static-us/druid/balance.json",
+      "tree_id": 793,
+      "specialization_id": 102
+    },
+    {
+      "class": "druid",
+      "spec": "restoration",
+      "path": "talent_layouts/static-us/druid/restoration.json",
+      "tree_id": 793,
+      "specialization_id": 105
+    },
+    {
+      "class": "druid",
+      "spec": "feral",
+      "path": "talent_layouts/static-us/druid/feral.json",
+      "tree_id": 793,
+      "specialization_id": 103
+    },
+    {
+      "class": "druid",
+      "spec": "guardian",
+      "path": "talent_layouts/static-us/druid/guardian.json",
+      "tree_id": 793,
+      "specialization_id": 104
+    },
+    {
+      "class": "warrior",
+      "spec": "protection",
+      "path": "talent_layouts/static-us/warrior/protection.json",
+      "tree_id": 850,
+      "specialization_id": 73
+    },
+    {
+      "class": "warrior",
+      "spec": "fury",
+      "path": "talent_layouts/static-us/warrior/fury.json",
+      "tree_id": 850,
+      "specialization_id": 72
+    },
+    {
+      "class": "warrior",
+      "spec": "arms",
+      "path": "talent_layouts/static-us/warrior/arms.json",
+      "tree_id": 850,
+      "specialization_id": 71
+    },
+    {
+      "class": "death-knight",
+      "spec": "blood",
+      "path": "talent_layouts/static-us/death-knight/blood.json",
+      "tree_id": 750,
+      "specialization_id": 250
+    },
+    {
+      "class": "death-knight",
+      "spec": "unholy",
+      "path": "talent_layouts/static-us/death-knight/unholy.json",
+      "tree_id": 750,
+      "specialization_id": 252
+    },
+    {
+      "class": "death-knight",
+      "spec": "frost",
+      "path": "talent_layouts/static-us/death-knight/frost.json",
+      "tree_id": 750,
+      "specialization_id": 251
+    },
+    {
+      "class": "paladin",
+      "spec": "protection",
+      "path": "talent_layouts/static-us/paladin/protection.json",
+      "tree_id": 790,
+      "specialization_id": 66
+    },
+    {
+      "class": "paladin",
+      "spec": "holy",
+      "path": "talent_layouts/static-us/paladin/holy.json",
+      "tree_id": 790,
+      "specialization_id": 65
+    },
+    {
+      "class": "paladin",
+      "spec": "retribution",
+      "path": "talent_layouts/static-us/paladin/retribution.json",
+      "tree_id": 790,
+      "specialization_id": 70
+    },
+    {
+      "class": "priest",
+      "spec": "holy",
+      "path": "talent_layouts/static-us/priest/holy.json",
+      "tree_id": 795,
+      "specialization_id": 257
+    },
+    {
+      "class": "priest",
+      "spec": "discipline",
+      "path": "talent_layouts/static-us/priest/discipline.json",
+      "tree_id": 795,
+      "specialization_id": 256
+    },
+    {
+      "class": "priest",
+      "spec": "shadow",
+      "path": "talent_layouts/static-us/priest/shadow.json",
+      "tree_id": 795,
+      "specialization_id": 258
+    },
+    {
+      "class": "mage",
+      "spec": "frost",
+      "path": "talent_layouts/static-us/mage/frost.json",
+      "tree_id": 658,
+      "specialization_id": 64
+    },
+    {
+      "class": "mage",
+      "spec": "fire",
+      "path": "talent_layouts/static-us/mage/fire.json",
+      "tree_id": 658,
+      "specialization_id": 63
+    },
+    {
+      "class": "mage",
+      "spec": "arcane",
+      "path": "talent_layouts/static-us/mage/arcane.json",
+      "tree_id": 658,
+      "specialization_id": 62
+    },
+    {
+      "class": "rogue",
+      "spec": "outlaw",
+      "path": "talent_layouts/static-us/rogue/outlaw.json",
+      "tree_id": 852,
+      "specialization_id": 260
+    },
+    {
+      "class": "rogue",
+      "spec": "assassination",
+      "path": "talent_layouts/static-us/rogue/assassination.json",
+      "tree_id": 852,
+      "specialization_id": 259
+    },
+    {
+      "class": "rogue",
+      "spec": "subtlety",
+      "path": "talent_layouts/static-us/rogue/subtlety.json",
+      "tree_id": 852,
+      "specialization_id": 261
+    },
+    {
+      "class": "demon-hunter",
+      "spec": "vengeance",
+      "path": "talent_layouts/static-us/demon-hunter/vengeance.json",
+      "tree_id": 854,
+      "specialization_id": 581
+    },
+    {
+      "class": "demon-hunter",
+      "spec": "havoc",
+      "path": "talent_layouts/static-us/demon-hunter/havoc.json",
+      "tree_id": 854,
+      "specialization_id": 577
+    },
+    {
+      "class": "demon-hunter",
+      "spec": "devourer",
+      "path": "talent_layouts/static-us/demon-hunter/devourer.json",
+      "tree_id": 854,
+      "specialization_id": 1480
+    },
+    {
+      "class": "warlock",
+      "spec": "affliction",
+      "path": "talent_layouts/static-us/warlock/affliction.json",
+      "tree_id": 720,
+      "specialization_id": 265
+    },
+    {
+      "class": "warlock",
+      "spec": "destruction",
+      "path": "talent_layouts/static-us/warlock/destruction.json",
+      "tree_id": 720,
+      "specialization_id": 267
+    },
+    {
+      "class": "warlock",
+      "spec": "demonology",
+      "path": "talent_layouts/static-us/warlock/demonology.json",
+      "tree_id": 720,
+      "specialization_id": 266
+    },
+    {
+      "class": "evoker",
+      "spec": "augmentation",
+      "path": "talent_layouts/static-us/evoker/augmentation.json",
+      "tree_id": 872,
+      "specialization_id": 1473
+    },
+    {
+      "class": "evoker",
+      "spec": "preservation",
+      "path": "talent_layouts/static-us/evoker/preservation.json",
+      "tree_id": 872,
+      "specialization_id": 1468
+    },
+    {
+      "class": "evoker",
+      "spec": "devastation",
+      "path": "talent_layouts/static-us/evoker/devastation.json",
+      "tree_id": 872,
+      "specialization_id": 1467
+    },
+    {
+      "class": "monk",
+      "spec": "windwalker",
+      "path": "talent_layouts/static-us/monk/windwalker.json",
+      "tree_id": 1000,
+      "specialization_id": 269
+    },
+    {
+      "class": "monk",
+      "spec": "mistweaver",
+      "path": "talent_layouts/static-us/monk/mistweaver.json",
+      "tree_id": 1000,
+      "specialization_id": 270
+    },
+    {
+      "class": "monk",
+      "spec": "brewmaster",
+      "path": "talent_layouts/static-us/monk/brewmaster.json",
+      "tree_id": 1000,
+      "specialization_id": 268
+    }
+  ]
+}

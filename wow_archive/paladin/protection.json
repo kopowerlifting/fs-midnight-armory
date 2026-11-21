@@ -1,0 +1,36 @@
+[
+  {
+    "class": "paladin",
+    "spec": "protection",
+    "character": {
+      "name": "Cloudx",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/shattered-hand/cloudx/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/shattered-hand/cloudx/",
+      "captured": 1794952809.6757197,
+      "captured_at": "2026-11-17T22:00:09.675720+00:00",
+      "capture_status": "captured",
+      "html_length": 1097957,
+      "raw_html_file": "captures/us/shattered-hand/cloudx/20261117T220009675720Z.html",
+      "profile_data_file": "captures/us/shattered-hand/cloudx/20261117T220009675720Z.json"
+    }
+  },
+  {
+    "class": "paladin",
+    "spec": "protection",
+    "character": {
+      "name": "Aluvia",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malygos/aluvia/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/malygos/aluvia/",
+      "captured": 1794952814.1632285,
+      "captured_at": "2026-11-17T22:00:14.163229+00:00",
+      "capture_status": "captured",
+      "html_length": 1653094,
+      "raw_html_file": "captures/us/malygos/aluvia/20261117T220014163229Z.html",
+      "profile_data_file": "captures/us/malygos/aluvia/20261117T220014163229Z.json"
+    }
+  }
+]

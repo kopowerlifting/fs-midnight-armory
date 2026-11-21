@@ -1,0 +1,36 @@
+[
+  {
+    "class": "warlock",
+    "spec": "destruction",
+    "character": {
+      "name": "Níenarýa",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/skullcrusher/n%C3%ADenar%C3%BDa/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/skullcrusher/n%C3%ADenar%C3%BDa/",
+      "captured": 1794953079.7062147,
+      "captured_at": "2026-11-17T22:04:39.706215+00:00",
+      "capture_status": "captured",
+      "html_length": 1571779,
+      "raw_html_file": "captures/us/skullcrusher/n%C3%ADenar%C3%BDa/20261117T220439706215Z.html",
+      "profile_data_file": "captures/us/skullcrusher/n%C3%ADenar%C3%BDa/20261117T220439706215Z.json"
+    }
+  },
+  {
+    "class": "warlock",
+    "spec": "destruction",
+    "character": {
+      "name": "Diirtydawgg",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/bleeding-hollow/diirtydawgg/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/bleeding-hollow/diirtydawgg/",
+      "captured": 1794953085.8696158,
+      "captured_at": "2026-11-17T22:04:45.869616+00:00",
+      "capture_status": "captured",
+      "html_length": 1564437,
+      "raw_html_file": "captures/us/bleeding-hollow/diirtydawgg/20261117T220445869616Z.html",
+      "profile_data_file": "captures/us/bleeding-hollow/diirtydawgg/20261117T220445869616Z.json"
+    }
+  }
+]

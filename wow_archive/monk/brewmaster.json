@@ -1,0 +1,36 @@
+[
+  {
+    "class": "monk",
+    "spec": "brewmaster",
+    "character": {
+      "name": "Imasterl",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/imasterl/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/imasterl/",
+      "captured": 1794953096.293823,
+      "captured_at": "2026-11-17T22:04:56.293823+00:00",
+      "capture_status": "captured",
+      "html_length": 1747659,
+      "raw_html_file": "captures/us/proudmoore/imasterl/20261117T220456293823Z.html",
+      "profile_data_file": "captures/us/proudmoore/imasterl/20261117T220456293823Z.json"
+    }
+  },
+  {
+    "class": "monk",
+    "spec": "brewmaster",
+    "character": {
+      "name": "Cba",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/frostmourne/cba/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/frostmourne/cba/",
+      "captured": 1794953103.328766,
+      "captured_at": "2026-11-17T22:05:03.328766+00:00",
+      "capture_status": "captured",
+      "html_length": 1576577,
+      "raw_html_file": "captures/us/frostmourne/cba/20261117T220503328766Z.html",
+      "profile_data_file": "captures/us/frostmourne/cba/20261117T220503328766Z.json"
+    }
+  }
+]

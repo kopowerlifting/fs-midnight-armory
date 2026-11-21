@@ -1,0 +1,36 @@
+[
+  {
+    "class": "warlock",
+    "spec": "affliction",
+    "character": {
+      "name": "Wardin",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dragonmaw/wardin/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/dragonmaw/wardin/",
+      "captured": 1794953048.4906812,
+      "captured_at": "2026-11-17T22:04:08.490681+00:00",
+      "capture_status": "captured",
+      "html_length": 1401956,
+      "raw_html_file": "captures/us/dragonmaw/wardin/20261117T220408490681Z.html",
+      "profile_data_file": "captures/us/dragonmaw/wardin/20261117T220408490681Z.json"
+    }
+  },
+  {
+    "class": "warlock",
+    "spec": "affliction",
+    "character": {
+      "name": "Minkyu",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/minkyu/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/proudmoore/minkyu/",
+      "captured": 1794953053.1180065,
+      "captured_at": "2026-11-17T22:04:13.118006+00:00",
+      "capture_status": "captured",
+      "html_length": 875705,
+      "raw_html_file": "captures/us/proudmoore/minkyu/20261117T220413118006Z.html",
+      "profile_data_file": "captures/us/proudmoore/minkyu/20261117T220413118006Z.json"
+    }
+  }
+]

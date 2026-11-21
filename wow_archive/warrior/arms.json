@@ -1,0 +1,36 @@
+[
+  {
+    "class": "warrior",
+    "spec": "arms",
+    "character": {
+      "name": "Megamonkey",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/megamonkey/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/megamonkey/",
+      "captured": 1794952753.7582135,
+      "captured_at": "2026-11-17T21:59:13.758214+00:00",
+      "capture_status": "captured",
+      "html_length": 1054475,
+      "raw_html_file": "captures/us/sargeras/megamonkey/20261117T215913758214Z.html",
+      "profile_data_file": "captures/us/sargeras/megamonkey/20261117T215913758214Z.json"
+    }
+  },
+  {
+    "class": "warrior",
+    "spec": "arms",
+    "character": {
+      "name": "Îï",
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/%C3%AE%C3%AF/"
+    },
+    "snapshot": {
+      "armory_url": "https://worldofwarcraft.blizzard.com/worldsoul/us/armory/character/sargeras/%C3%AE%C3%AF/",
+      "captured": 1794952757.8811748,
+      "captured_at": "2026-11-17T21:59:17.881175+00:00",
+      "capture_status": "captured",
+      "html_length": 1083215,
+      "raw_html_file": "captures/us/sargeras/%C3%AE%C3%AF/20261117T215917881175Z.html",
+      "profile_data_file": "captures/us/sargeras/%C3%AE%C3%AF/20261117T215917881175Z.json"
+    }
+  }
+]
